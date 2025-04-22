@@ -1,0 +1,167 @@
+baseURL: "https://doc.njust.wiki/"
+title: NJUST 课程攻略共享计划
+
+theme: ["hextra", "hugo-embed-pdf-shortcode"]
+
+cleanDestinationDir : true 
+enableRobotsTXT: true
+enableGitInfo: true
+# enableEmoji: false
+hasCJKLanguage: true
+
+services:
+  googleAnalytics:
+    ID: G-3RZ5BLLVPF
+
+outputs:
+  home: [HTML]
+  page: [HTML]
+  section: [HTML, RSS]
+
+defaultContentLanguage: zh-cn
+languages:
+  zh-cn:
+      languageName: 简体中文
+      languageCode: zh-CN
+      weight: 1
+      title: NJUST 课程攻略共享计划
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    noClasses: false
+
+enableInlineShortcodes: true
+
+menu:
+  main:
+    - identifier: documentation
+      name: Documentation
+      pageRef: /docs1
+      weight: 1
+    - identifier: blog
+      name: Blog
+      pageRef: /blog
+      weight: 2
+    - identifier: news
+      name: 新闻
+      pageRef: /news
+      weight: 3
+    - identifier: links
+      name: 友链
+      pageRef: /links
+      weight: 4
+    - identifier: about
+      name: About
+      pageRef: /about
+      weight: 5
+    - name: Search
+      weight: 6
+      params:
+        type: search
+    - name: GitHub
+      weight: 7 
+      url: "https://github.com/NJUST-OpenLib"
+      params:
+        icon: github
+
+  sidebar:
+    - identifier: more
+      name: More
+      params:
+        type: separator
+      weight: 1
+    - identifier: links
+      name: 友链
+      pageRef: /links
+      weight: 2
+    - identifier: sponsor
+      name: 捐助我们
+      pageRef: /sponsor
+      weight: 3
+    - identifier: faq
+      name: 常见问题
+      pageRef: /faq
+      weight: 4
+    - identifier: githubPage
+      name: "GitHub 主页 ↗"
+      url: "https://github.com/NJUST-OpenLib/"
+      weight: 5
+
+params:
+  description: 由 NJUST.WIKI 维护，为 NJUST 学子提供课程攻略共享服务
+
+  navbar:
+    displayTitle: true
+    displayLogo: true
+    logo:
+      path: images/logo.webp
+      dark: images/logo.webp
+      # width: 40
+      # height: 20
+      # link: /
+    width: wide
+
+  page:
+    # full (100%), wide (90rem), normal (1280px)
+    width: normal
+
+  theme:
+    # light | dark | system
+    default: system
+    displayToggle: true
+
+  footer:
+    enable: true
+    displayCopyright: true
+    displayPoweredBy: true
+    width: normal
+
+  displayUpdatedDate: false
+
+  # Search
+  # flexsearch is enabled by default
+  search:
+    enable: true
+    type: flexsearch
+
+    flexsearch:
+      # index page by: content | summary | heading | title
+      index: content
+      # full | forward | reverse | strict
+      # https://github.com/nextapps-de/flexsearch/#tokenizer-prefix-search
+      tokenize: forward
+
+  editURL:
+    enable: false
+    base: "https://github.com/NJUST-OpenLib/NJUST-docs/"
+    
+  blog:
+    list:
+      displayTags: true
+
+  news:
+    list:
+      displayTags: true
+      # date | lastmod | publishDate | title | weight
+      sortBy: date
+      sortOrder: desc # or "asc"
+
+  comments:
+    enable: true
+    type: giscus
+
+    # https://giscus.app/
+    giscus:
+      repo: NJUST-OpenLib/NJUST-docs
+      repoId: R_kgDOOFjKKA
+      category: Announcements
+      categoryId: DIC_kwDOOFjKKM4CpAfC
+      mapping: pathname
+      strict: 0
+      reactionsEnabled: 1
+      emitMetadata: 1
+      inputPosition: top
+      lang: zh-CN

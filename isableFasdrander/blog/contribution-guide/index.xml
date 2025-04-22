@@ -1,0 +1,253 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NJUST 课程攻略共享计划 – 参与指南</title>
+    <link>http://localhost:9623/blog/contribution-guide/</link>
+    <description>Recent content in 参与指南 on NJUST 课程攻略共享计划</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Fri, 10 Jan 2025 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="http://localhost:9623/blog/contribution-guide/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>0. 预备知识</title>
+      <link>http://localhost:9623/blog/contribution-guide/prerequisites/</link>
+      <pubDate>Fri, 10 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:9623/blog/contribution-guide/prerequisites/</guid>
+      <description>
+        
+        
+        &lt;!-- 带 * 号表示选修。 --&gt;
+&lt;p&gt;本系列文章重点介绍 Git 的实际操作方法，不深入探讨其底层原理和实现机制；如有学习需要请移步互联网，也可以查阅 HITSZ 开源技术协会同学编写的 &lt;a href=&#34;https://wiki.osa.moe/guide-for-beginner/git-tutorial/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Git 教程&lt;/a&gt;。&lt;/p&gt;
+&lt;h2&gt;稳定连接到 GitHub&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;稳定连接到-github&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e7%a8%b3%e5%ae%9a%e8%bf%9e%e6%8e%a5%e5%88%b0-github&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;blockquote&gt;
+  &lt;p&gt;如果你已有合法访问国际互联网途径，或者能确保 GitHub 的稳定访问，可跳过。&lt;/p&gt;
+
+&lt;/blockquote&gt;
+&lt;p&gt;参见我们的博客 &lt;a href=&#34;https://hoa.moe/blog/access-github/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;《新人指南：不使用第三方工具访问 GitHub》&lt;/a&gt;，任意一种方式均可。&lt;/p&gt;
+&lt;h2&gt;&lt;code&gt;本地&lt;/code&gt;和&lt;code&gt;远程&lt;/code&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;本地和远程&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e6%9c%ac%e5%9c%b0%e5%92%8c%e8%bf%9c%e7%a8%8b&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;一般来说，&lt;strong&gt;本地（local）&lt;/strong&gt; 文件指的是你的电脑磁盘上的文件，而 &lt;strong&gt;远程（remote）&lt;/strong&gt; 文件指的是存储在服务器上的数据文件。&lt;/p&gt;
+&lt;p&gt;在 HOA 的语境下，&lt;code&gt;本地文件&lt;/code&gt;指的是你保存在自己电脑上、想要提交到我们的&lt;code&gt;远程仓库&lt;/code&gt;里的文件，而 &lt;code&gt;远程仓库&lt;/code&gt;则是我们在 GitHub 上的 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;各个仓库&lt;/a&gt;。
+所谓的贡献文件，实际上就是通过 GitHub 提供的方法将&lt;code&gt;本地文件&lt;/code&gt;提交到&lt;code&gt;远程仓库&lt;/code&gt;的过程。&lt;/p&gt;
+&lt;!-- ## *GitHub Codespaces
+
+施工中... --&gt;
+&lt;!-- ### 问题的产生
+上面我们讲过，
+&gt; 所谓的贡献文件，实际上就是通过 GitHub 提供的方法，将 本地文件 提交到 远程仓库 的过程
+
+但是，GitHub 提供的方法对 多文件上传、多文档修改 并不友好——
+
+虽然，你可以在 GitHub 提供的界面中拖入多个文件上传，
+![多文件上传](./img/upload-files.jpg)
+*&lt;center&gt;我们会在后续的专题中讲解多文件上传&lt;/center&gt;*
+
+但正常来说，你并不希望文件在大仓库里堆成一团，而是放在文件夹里。**但，GitHub 并不支持在上面的界面中进行文件路径的修改！** 也就是说，你还得花费额外的步骤（即 Git 中 **commit** 的概念）把它放进文件夹。
+
+类似地，在一个页面上只能修改一个文档。所以如果有一个改动、涉及到 5 个文档需要修改，就得进行五个独立的 步骤/commit；而按照逻辑，原本这 5 个文档的修改是*同一个改动引发*的，应该*属于同一步骤*。
+这样会让仓库的修改历史过于零散。
+
+### Git 方法
+上面问题产生的根源是 **GitHub 的网页版不支持这么多功能**。
+如果你有 Git 协助经历，那么解决问题的途径显而易见：只要把 **远程仓库** 仓库 clone/pull 下来到 **本地**，在 **本地** 使用 Git 一气呵成地修改完，再 push 到 **远程仓库** 就可以了。 --&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>1. 单文档修改和单文件夹上传文件</title>
+      <link>http://localhost:9623/blog/contribution-guide/edit-single-file-and-upload-file/</link>
+      <pubDate>Fri, 10 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:9623/blog/contribution-guide/edit-single-file-and-upload-file/</guid>
+      <description>
+        
+        
+        &lt;h2&gt;单文档修改：以课程文档为例&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;单文档修改以课程文档为例&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e5%8d%95%e6%96%87%e6%a1%a3%e4%bf%ae%e6%94%b9%e4%bb%a5%e8%af%be%e7%a8%8b%e6%96%87%e6%a1%a3%e4%b8%ba%e4%be%8b&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;对课程文档进行修改应该是&lt;code&gt;单文档修改&lt;/code&gt;的主要情况。HITSZ OpenAuto 的课程文档大致可分为以下几部分，如果你发现其中任一项有缺失/与实际情况不符，或是你有自己的理解与体会，都可以增补。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;课程名&lt;/li&gt;
+&lt;li&gt;课程性质：必修/限选/选修；考试课/考查课；学分/学时；成绩构成&lt;/li&gt;
+&lt;li&gt;教材与参考书&lt;/li&gt;
+&lt;li&gt;授课教师及授课风格&lt;/li&gt;
+&lt;li&gt;授课内容/课程建议/备考策略&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;从整体上看，修改文档可以分为两步：&lt;/p&gt;
+&lt;h3&gt;在分支仓库修改文档&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;在分支仓库修改文档&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e5%9c%a8%e5%88%86%e6%94%af%e4%bb%93%e5%ba%93%e4%bf%ae%e6%94%b9%e6%96%87%e6%a1%a3&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;我们的课程文档界面实际上已经做好了入口，
+&lt;img src=&#34;./img/link-to-repo.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;
+由于只有 HOA 团队成员具有直接写入权限，因此贡献者一般需要先创建&lt;strong&gt;分支仓库（Fork）&lt;/strong&gt;。点击按钮，创建仓库在自己账号下的分支（fork），
+&lt;img src=&#34;./img/fork-repo.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;
+就可以在 GitHub 的网页编辑器修改内容，如下图所示：
+&lt;img src=&#34;./img/commit-doc.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;
+图示：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;编辑器，使用 Markdown 语言进行写作。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;预览 Markdown 渲染效果。注意，&lt;strong&gt;HOA 使用的渲染器和此渲染器不同，预览效果仅供参考。&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;修改此文件路径。用 &lt;code&gt;..&lt;/code&gt; 表示跳到上一级文件夹。一般不需要修改。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;提交你的修改。关于 commit message 的填写，详见下文&lt;a href=&#34;#%e5%85%ac%e7%ba%a6&#34; &gt;公约&lt;/a&gt;。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3&gt;发起 Pull Request&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;发起-pull-request&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e5%8f%91%e8%b5%b7-pull-request&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;blockquote&gt;
+  &lt;p&gt;Pull Request 是指把&lt;em&gt;你的仓库里新的内容&lt;/em&gt;合并进&lt;em&gt;我们已过时的仓库内容&lt;/em&gt;的过程。&lt;/p&gt;
+
+&lt;/blockquote&gt;
+&lt;p&gt;点击按钮，GitHub 会要求你填写 PR 的描述。我们给这份描述添加了一些指引，因此只需要按照指引填写即可。
+&lt;img src=&#34;./img/pull-request.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;div class=&#34;hx-overflow-x-auto hx-mt-6 hx-flex hx-rounded-lg hx-border hx-py-2 ltr:hx-pr-4 rtl:hx-pl-4 contrast-more:hx-border-current contrast-more:dark:hx-border-current hx-border-blue-200 hx-bg-blue-100 hx-text-blue-900 dark:hx-border-blue-200/30 dark:hx-bg-blue-900/30 dark:hx-text-blue-200&#34;&gt;
+  &lt;div class=&#34;ltr:hx-pl-3 ltr:hx-pr-2 rtl:hx-pr-3 rtl:hx-pl-2&#34;&gt;&lt;div class=&#34;hx-select-none hx-text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;ℹ️&lt;/div&gt;&lt;/div&gt;
+
+  &lt;div class=&#34;hx-w-full hx-min-w-0 hx-leading-7&#34;&gt;
+    &lt;div class=&#34;hx-mt-6 hx-leading-7 first:hx-mt-0&#34;&gt;如果有疑问，可以先看看 &lt;a href=&#34;#%e5%8d%95%e6%96%87%e4%bb%b6%e5%a4%b9%e4%b8%8a%e4%bc%a0%e6%96%87%e4%bb%b6&#34; &gt;单文件夹上传文件&lt;/a&gt; 的教程，因为这两者的流程是一致的&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h2&gt;单文件夹上传文件&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;单文件夹上传文件&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e5%8d%95%e6%96%87%e4%bb%b6%e5%a4%b9%e4%b8%8a%e4%bc%a0%e6%96%87%e4%bb%b6&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;GitHub 提供的功能实际上支持多文件上传，但这些文件必须上传到&lt;strong&gt;同一个目标文件夹&lt;/strong&gt;，因此称为「单文件夹上传」。&lt;/p&gt;
+&lt;p&gt;使用场景如：上传某课程试卷和/或其答案，同属 exams 文件夹&lt;/p&gt;
+&lt;h3&gt;手动 Fork 仓库&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;手动-fork-仓库&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e6%89%8b%e5%8a%a8-fork-%e4%bb%93%e5%ba%93&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;由于我们的仓库设置了文件上传保护，需要手动创建自己的仓库分支。
+&lt;img src=&#34;./img/fork-repo-actively.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;h3&gt;在自己的仓库上传文件&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;在自己的仓库上传文件&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e5%9c%a8%e8%87%aa%e5%b7%b1%e7%9a%84%e4%bb%93%e5%ba%93%e4%b8%8a%e4%bc%a0%e6%96%87%e4%bb%b6&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;在自己的仓库总页面，点击你想上传的文件夹，然后点如图按钮；在上传界面拖拽文件即可。这一步支持多文件上传。
+&lt;img src=&#34;./img/files-upload-button.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;div class=&#34;hx-overflow-x-auto hx-mt-6 hx-flex hx-rounded-lg hx-border hx-py-2 ltr:hx-pr-4 rtl:hx-pl-4 contrast-more:hx-border-current contrast-more:dark:hx-border-current hx-border-blue-200 hx-bg-blue-100 hx-text-blue-900 dark:hx-border-blue-200/30 dark:hx-bg-blue-900/30 dark:hx-text-blue-200&#34;&gt;
+  &lt;div class=&#34;ltr:hx-pl-3 ltr:hx-pr-2 rtl:hx-pr-3 rtl:hx-pl-2&#34;&gt;&lt;div class=&#34;hx-select-none hx-text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;ℹ️&lt;/div&gt;&lt;/div&gt;
+
+  &lt;div class=&#34;hx-w-full hx-min-w-0 hx-leading-7&#34;&gt;
+    &lt;div class=&#34;hx-mt-6 hx-leading-7 first:hx-mt-0&#34;&gt;注意，请确保所上传的文件不是 &lt;a href=&#34;#%e5%85%ac%e7%ba%a6&#34; &gt;公约&lt;/a&gt; 中所述「&lt;strong&gt;不宜上传文件&lt;/strong&gt;」；填写 commit message 仍然需要遵守公约。&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h3&gt;发起 Pull Request&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;发起-pull-request-1&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e5%8f%91%e8%b5%b7-pull-request-1&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;再次回到自己的仓库，主界面会发现显眼的标注
+&lt;img src=&#34;./img/open-pull-request.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;
+然后就是和上文一样的流程。&lt;/p&gt;
+&lt;h2&gt;公约&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;公约&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e5%85%ac%e7%ba%a6&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;修改文档或上传文件需要遵守以下公约：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;不要随意删除/修改他人的评价、建议&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;在提出某项意见/评价时请按格式署名（不一定要真实姓名）、标注时间，放在你所修改部分的&lt;strong&gt;最末尾&lt;/strong&gt;。例如：&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class=&#34;hextra-code-block hx-relative hx-mt-6 first:hx-mt-0 hx-group/code&#34;&gt;
+
+&lt;div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&amp;gt; 文 / [&lt;span class=&#34;nt&#34;&gt;IcyDesert&lt;/span&gt;](&lt;span class=&#34;na&#34;&gt;https://github.com/IcyDesert&lt;/span&gt;), 2025.1&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&#34;hextra-code-copy-btn-container hx-opacity-0 hx-transition group-hover/code:hx-opacity-100 hx-flex hx-gap-1 hx-absolute hx-m-[11px] hx-right-0 hx-top-0&#34;&gt;
+  &lt;button
+    class=&#34;hextra-code-copy-btn hx-group/copybtn hx-transition-all active:hx-opacity-50 hx-bg-primary-700/5 hx-border hx-border-black/5 hx-text-gray-600 hover:hx-text-gray-900 hx-rounded-md hx-p-1.5 dark:hx-bg-primary-300/10 dark:hx-border-white/10 dark:hx-text-gray-400 dark:hover:hx-text-gray-50&#34;
+    title=&#34;Copy code&#34;
+  &gt;
+    &lt;div class=&#34;copy-icon group-[.copied]/copybtn:hx-hidden hx-pointer-events-none hx-h-4 hx-w-4&#34;&gt;&lt;/div&gt;
+    &lt;div class=&#34;success-icon hx-hidden group-[.copied]/copybtn:hx-block hx-pointer-events-none hx-h-4 hx-w-4&#34;&gt;&lt;/div&gt;
+  &lt;/button&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;
+&lt;p&gt;commit message 和 PR 的标题，不要只写「增加/修改/删除一些内容」，而要明确写清：「增加 &lt;strong&gt;xx 教师的信息及评价&lt;/strong&gt;」、「更新&lt;strong&gt;课程大纲&lt;/strong&gt;」、「增加&lt;strong&gt;课程建议&lt;/strong&gt;」、「修改&lt;strong&gt;学分学时安排&lt;/strong&gt;」等&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;中文排版应按照 &lt;a href=&#34;https://github.com/sparanoid/chinese-copywriting-guidelines/blob/master/README.zh-Hans.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;中文文案排版指北&lt;/a&gt; 的规范进行&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;我们的初心是分享学习经验，坚决反对抄袭/盗版，以下是&lt;strong&gt;不宜上传&lt;/strong&gt;的文件：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;盗版电子书，盗版软件以及一切和盗版有关的东西&lt;/li&gt;
+&lt;li&gt;未经老师同意上传的教学课件&lt;/li&gt;
+&lt;li&gt;不推荐上传与成绩考核相关的作业答案与实验代码，但鼓励上传作业中的难题思路和大实验的代码思路。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>2. 多文档修改和多文件夹上传文件</title>
+      <link>http://localhost:9623/blog/contribution-guide/edit-multi-docs-and-upload-files/</link>
+      <pubDate>Fri, 10 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:9623/blog/contribution-guide/edit-multi-docs-and-upload-files/</guid>
+      <description>
+        
+        
+        &lt;p&gt;我们介绍的正规方法需要一些 Git 基础，这是 GitHub 界面功能不足导致的。&lt;/p&gt;
+&lt;p&gt;如果你没有 Git 相关知识，可以查看 HITSZ 开源技术协会同学编写的 &lt;a href=&#34;https://wiki.osa.moe/guide-for-beginner/git-tutorial/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Git 教程&lt;/a&gt;。&lt;/p&gt;
+&lt;h2&gt;Git 本地编辑&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;git-本地编辑&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#git-%e6%9c%ac%e5%9c%b0%e7%bc%96%e8%be%91&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;git clone&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;git-clone&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#git-clone&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;首先将仓库 Fork 到自己名下，
+&lt;img src=&#34;./img/fork-repo-actively.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;
+然后进入自己的仓库，找到仓库链接、复制下来，
+&lt;img src=&#34;./img/find-git-clone-url.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;
+在命令行运行
+&lt;code&gt;git clone &amp;lt;你刚刚复制的仓库链接&amp;gt;&lt;/code&gt;
+这样，&lt;strong&gt;仓库就已经成为你的&lt;code&gt;本地文件&lt;/code&gt;&lt;/strong&gt;；在本地，你就可以随心所欲地进行各种修改，包括文档修改和文件上传。&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;还记得&lt;code&gt;本地&lt;/code&gt;的概念吗？&lt;code&gt;本地文件&lt;/code&gt;指的是你存在自己电脑上、想要提交到我们的仓库里的文件。&lt;/p&gt;
+
+&lt;/blockquote&gt;
+&lt;h3&gt;commit &amp;amp; push&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;commit--push&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#commit--push&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;确认所有改进都完成后，我们就可以把&lt;code&gt;本地文件&lt;/code&gt;推送到&lt;code&gt;远程仓库&lt;/code&gt;了；这时候，&lt;code&gt;远程仓库&lt;/code&gt;还是你自己的，而非 HOA 的。（从自己的&lt;code&gt;远程仓库&lt;/code&gt;，通过&lt;em&gt;Pull Request&lt;/em&gt;，才能把内容推送到 HOA 的&lt;code&gt;远程仓库&lt;/code&gt;）&lt;/p&gt;
+&lt;p&gt;在命令行中，逐行执行以下命令：&lt;/p&gt;
+&lt;div class=&#34;hextra-code-block hx-relative hx-mt-6 first:hx-mt-0 hx-group/code&#34;&gt;
+
+&lt;div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git add .                           &lt;span class=&#34;c1&#34;&gt;# 将当前目录下所有修改部分提交至暂存区&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git commit -m &lt;span class=&#34;s2&#34;&gt;&amp;#34;commit message&amp;#34;&lt;/span&gt;      &lt;span class=&#34;c1&#34;&gt;# 提交 commit message，需要遵守公约&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git push                            &lt;span class=&#34;c1&#34;&gt;# 将本地修改同步到远端仓库&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&#34;hextra-code-copy-btn-container hx-opacity-0 hx-transition group-hover/code:hx-opacity-100 hx-flex hx-gap-1 hx-absolute hx-m-[11px] hx-right-0 hx-top-0&#34;&gt;
+  &lt;button
+    class=&#34;hextra-code-copy-btn hx-group/copybtn hx-transition-all active:hx-opacity-50 hx-bg-primary-700/5 hx-border hx-border-black/5 hx-text-gray-600 hover:hx-text-gray-900 hx-rounded-md hx-p-1.5 dark:hx-bg-primary-300/10 dark:hx-border-white/10 dark:hx-text-gray-400 dark:hover:hx-text-gray-50&#34;
+    title=&#34;Copy code&#34;
+  &gt;
+    &lt;div class=&#34;copy-icon group-[.copied]/copybtn:hx-hidden hx-pointer-events-none hx-h-4 hx-w-4&#34;&gt;&lt;/div&gt;
+    &lt;div class=&#34;success-icon hx-hidden group-[.copied]/copybtn:hx-block hx-pointer-events-none hx-h-4 hx-w-4&#34;&gt;&lt;/div&gt;
+  &lt;/button&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;hx-overflow-x-auto hx-mt-6 hx-flex hx-rounded-lg hx-border hx-py-2 ltr:hx-pr-4 rtl:hx-pl-4 contrast-more:hx-border-current contrast-more:dark:hx-border-current hx-border-blue-200 hx-bg-blue-100 hx-text-blue-900 dark:hx-border-blue-200/30 dark:hx-bg-blue-900/30 dark:hx-text-blue-200&#34;&gt;
+  &lt;div class=&#34;ltr:hx-pl-3 ltr:hx-pr-2 rtl:hx-pr-3 rtl:hx-pl-2&#34;&gt;&lt;div class=&#34;hx-select-none hx-text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;ℹ️&lt;/div&gt;&lt;/div&gt;
+
+  &lt;div class=&#34;hx-w-full hx-min-w-0 hx-leading-7&#34;&gt;
+    &lt;div class=&#34;hx-mt-6 hx-leading-7 first:hx-mt-0&#34;&gt;&lt;p&gt;如果在 push 时遇到以&amp;quot;fatal: unable to access&amp;quot;开头的错误，例如：&lt;/p&gt;
+&lt;div class=&#34;hextra-code-block hx-relative hx-mt-6 first:hx-mt-0 hx-group/code&#34;&gt;
+
+&lt;div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;fatal: unable to access &lt;span class=&#34;s1&#34;&gt;&amp;#39;https://github.com/&amp;lt;username&amp;gt;/AUTO3005.git/&amp;#39;&lt;/span&gt;: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to github.com:443&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&#34;hextra-code-copy-btn-container hx-opacity-0 hx-transition group-hover/code:hx-opacity-100 hx-flex hx-gap-1 hx-absolute hx-m-[11px] hx-right-0 hx-top-0&#34;&gt;
+  &lt;button
+    class=&#34;hextra-code-copy-btn hx-group/copybtn hx-transition-all active:hx-opacity-50 hx-bg-primary-700/5 hx-border hx-border-black/5 hx-text-gray-600 hover:hx-text-gray-900 hx-rounded-md hx-p-1.5 dark:hx-bg-primary-300/10 dark:hx-border-white/10 dark:hx-text-gray-400 dark:hover:hx-text-gray-50&#34;
+    title=&#34;Copy code&#34;
+  &gt;
+    &lt;div class=&#34;copy-icon group-[.copied]/copybtn:hx-hidden hx-pointer-events-none hx-h-4 hx-w-4&#34;&gt;&lt;/div&gt;
+    &lt;div class=&#34;success-icon hx-hidden group-[.copied]/copybtn:hx-block hx-pointer-events-none hx-h-4 hx-w-4&#34;&gt;&lt;/div&gt;
+  &lt;/button&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;可能是因为你的网络环境无法访问 Github，可以尝试使用 VPN 或者参考 &lt;a href=&#34;https://hoa.moe/blog/access-github/#3-%e9%80%9a%e8%bf%87%e4%bf%ae%e6%94%b9-hosts-%e6%96%87%e4%bb%b6%e8%ae%bf%e9%97%ae-github&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;《新人指南：不使用第三方工具访问 GitHub》&lt;/a&gt; 中修改 Host 文件的方法。&lt;/p&gt;
+&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h3&gt;发起 Pull Request&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;发起-pull-request&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e5%8f%91%e8%b5%b7-pull-request&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;参考 &lt;a href=&#34;http://localhost:9623/blog/contribution-guide/edit-single-file-and-upload-file/#%e5%8f%91%e8%b5%b7-pull-request-1&#34; &gt;单文档的情况&lt;/a&gt; 即可。&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

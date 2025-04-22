@@ -1,0 +1,106 @@
+{{/*
+用法说明:
+{{< notice title="提示标题" details="http://example.com/details">}}
+    这里是提示内容，可以使用 Markdown 格式。
+    {{< /notice>}}
+        */}}
+
+        <style>
+            .notification-box {
+                background: #f9f9f9;
+                border: 1px solid #ccc;
+                border-left: 5px solid #5cb85c;
+                /* 左侧绿色边条 */
+                padding: 15px;
+                margin: 15px 0;
+                border-radius: 4px;
+                font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+                box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            }
+
+            .notification-title {
+                font-size: 18px;
+                font-weight: bold;
+                margin-bottom: 10px;
+            }
+
+            .notification-content {
+                font-size: 14px;
+                margin-bottom: 10px;
+            }
+
+            .notification-buttons {
+                text-align: right;
+            }
+
+            .notification-buttons a,
+            .notification-buttons button {
+                margin-left: 10px;
+                background-color: #5cb85c;
+                color: #fff;
+                border: none;
+                padding: 8px 12px;
+                border-radius: 4px;
+                text-decoration: none;
+                cursor: pointer;
+            }
+
+            .notification-buttons a:hover,
+            .notification-buttons button:hover {
+                background-color: #4cae4c;
+            }
+        </style>
+
+        <div id="notification-box" class="notification-box" style="display:none;">
+            <div class="notification-title">{{ .Get "title" }}</div>
+            <div class="notification-content">
+                {{ .Inner | markdownify }}
+            </div>
+            <div class="notification-buttons">
+                {{ with .Get "details" }}
+                <a href="{{ . }}" target="_blank">查看详情</a>
+                {{ end }}
+                <button id="close-notification">本日关闭</button>
+            </div>
+        </div>
+
+        <script>
+            (function () {
+                // 设置 cookie 的函数
+                function setCookie(name, value, days) {
+                    var expires = "";
+                    if (days) {
+                        var date = new Date();
+                        date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
+                        expires = "; expires=" + date.toUTCString();
+                    }
+                    document.cookie = name + "=" + (value || "") + expires + "; path=/";
+                }
+                // 获取 cookie 的函数
+                function getCookie(name) {
+                    var nameEQ = name + "=";
+                    var ca = document.cookie.split(';');
+                    for (var i = 0; i < ca.length; i++) {
+                        var c = ca[i].trim();
+                        if (c.indexOf(nameEQ) === 0) return c.substring(nameEQ.length, c.length);
+                    }
+                    return null;
+                }
+
+                // DOM 加载完后执行
+                document.addEventListener("DOMContentLoaded", function () {
+                    // 如果 cookie 已设置则不显示提示框
+                    if (getCookie("noticeClosed") === "true") {
+                        document.getElementById("notification-box").style.display = "none";
+                    } else {
+                        document.getElementById("notification-box").style.display = "block";
+                    }
+
+                    // 点击“本日关闭”按钮时，设置 cookie 并隐藏提示框
+                    document.getElementById("close-notification").addEventListener("click", function () {
+                        setCookie("noticeClosed", "true", 1);
+                        document.getElementById("notification-box").style.display = "none";
+                    });
+                });
+            })();
+        </script>

@@ -1,0 +1,2162 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NJUST 课程攻略共享计划 – 新闻</title>
+    <link>http://localhost:9623/news/</link>
+    <description>Recent content in 新闻 on NJUST 课程攻略共享计划</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    
+	  <atom:link href="http://localhost:9623/news/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>AUTO 更新速递</title>
+      <link>http://localhost:9623/news/daily/</link>
+      <pubDate>Sat, 15 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:9623/news/daily/</guid>
+      <description>
+        
+        
+        &lt;h2&gt;更新内容&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;更新内容&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e6%9b%b4%e6%96%b0%e5%86%85%e5%ae%b9&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;周五 (2.14)&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;周五-214&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e5%91%a8%e4%ba%94-214&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;W·D·Gaster 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/ENGG1003&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;工程训练（电子工艺实习）&lt;/a&gt; 中提交了信息：以 .gitkeep 文件替代无用的 readme.md 文件，修改文档格式 (#2)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;待解决的 Issues&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;待解决的-issues&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e5%be%85%e8%a7%a3%e5%86%b3%e7%9a%84-issues&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;&lt;a href=&#34;https://github.com/HITSZ-OpenAuto/MATH1002/issues/13&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Difficulty cloning this repository&lt;/a&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;difficulty-cloning-this-repositoryhttpsgithubcomhitsz-openautomath1002issues13&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#difficulty-cloning-this-repositoryhttpsgithubcomhitsz-openautomath1002issues13&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;仓库&lt;/strong&gt;: MATH1002&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;创建于&lt;/strong&gt;: 2025-01-20 15:32:37&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;作者&lt;/strong&gt;: MaxwellJay256&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;标签&lt;/strong&gt;: help wanted&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;&lt;a href=&#34;https://github.com/HITSZ-OpenAuto/AUTO3011/issues/4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AUTO3011&lt;/a&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;auto3011httpsgithubcomhitsz-openautoauto3011issues4&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#auto3011httpsgithubcomhitsz-openautoauto3011issues4&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;仓库&lt;/strong&gt;: AUTO3011&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;创建于&lt;/strong&gt;: 2025-01-19 21:16:38&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;作者&lt;/strong&gt;: MaxwellJay256&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;&lt;a href=&#34;https://github.com/HITSZ-OpenAuto/MATH1015A/issues/12&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;微积分&lt;/a&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;微积分httpsgithubcomhitsz-openautomath1015aissues12&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e5%be%ae%e7%a7%af%e5%88%86httpsgithubcomhitsz-openautomath1015aissues12&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;仓库&lt;/strong&gt;: MATH1015A&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;创建于&lt;/strong&gt;: 2025-01-19 12:00:29&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;作者&lt;/strong&gt;: WDGaster703&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;&lt;a href=&#34;https://github.com/HITSZ-OpenAuto/MATH1002/issues/12&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;线代&lt;/a&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;线代httpsgithubcomhitsz-openautomath1002issues12&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e7%ba%bf%e4%bb%a3httpsgithubcomhitsz-openautomath1002issues12&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;仓库&lt;/strong&gt;: MATH1002&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;创建于&lt;/strong&gt;: 2025-01-19 11:52:13&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;作者&lt;/strong&gt;: WDGaster703&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;待合并的 Pull Requests&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;待合并的-pull-requests&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e5%be%85%e5%90%88%e5%b9%b6%e7%9a%84-pull-requests&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;&lt;a href=&#34;https://github.com/HITSZ-OpenAuto/LANG100X/pull/5&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;以 .gitkeep 文件替代无用的 readme.md 文件，补充分班和免听相关&lt;/a&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;以-gitkeep-文件替代无用的-readmemd-文件补充分班和免听相关httpsgithubcomhitsz-openautolang100xpull5&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e4%bb%a5-gitkeep-%e6%96%87%e4%bb%b6%e6%9b%bf%e4%bb%a3%e6%97%a0%e7%94%a8%e7%9a%84-readmemd-%e6%96%87%e4%bb%b6%e8%a1%a5%e5%85%85%e5%88%86%e7%8f%ad%e5%92%8c%e5%85%8d%e5%90%ac%e7%9b%b8%e5%85%b3httpsgithubcomhitsz-openautolang100xpull5&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;仓库&lt;/strong&gt;: LANG100X&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;创建于&lt;/strong&gt;: 2025-02-07 16:04:26&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;作者&lt;/strong&gt;: WDGaster703&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;&lt;a href=&#34;https://github.com/HITSZ-OpenAuto/EE1011A/pull/9&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;修改 readme 格式，修改部分文件命名并进行归类&lt;/a&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;修改-readme-格式修改部分文件命名并进行归类httpsgithubcomhitsz-openautoee1011apull9&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e4%bf%ae%e6%94%b9-readme-%e6%a0%bc%e5%bc%8f%e4%bf%ae%e6%94%b9%e9%83%a8%e5%88%86%e6%96%87%e4%bb%b6%e5%91%bd%e5%90%8d%e5%b9%b6%e8%bf%9b%e8%a1%8c%e5%bd%92%e7%b1%bbhttpsgithubcomhitsz-openautoee1011apull9&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;仓库&lt;/strong&gt;: EE1011A&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;创建于&lt;/strong&gt;: 2025-01-19 15:28:31&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;作者&lt;/strong&gt;: WDGaster703&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>AUTO 周报 2025-02-07 - 2025-02-14</title>
+      <link>http://localhost:9623/news/weekly/weekly-2025-02-07/</link>
+      <pubDate>Fri, 14 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:9623/news/weekly/weekly-2025-02-07/</guid>
+      <description>
+        
+        
+        &lt;p&gt;&lt;img src=&#34;generated_image_cropped.png&#34; alt=&#34;AI Image of the Week&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;h2&gt;更新内容&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;更新内容&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e6%9b%b4%e6%96%b0%e5%86%85%e5%ae%b9&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;周五 (2.14)&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;周五-214&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e5%91%a8%e4%ba%94-214&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;W·D·Gaster 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/ENGG1003&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;工程训练（电子工艺实习）&lt;/a&gt; 中提交了信息：以 .gitkeep 文件替代无用的 readme.md 文件，修改文档格式 (#2)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;周三 (2.12)&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;周三-212&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e5%91%a8%e4%b8%89-212&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;W·D·Gaster 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/EE1011B&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;电路 IB&lt;/a&gt; 中提交了信息：修改 readme 格式，修改部分文件命名 (#12)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;周日 (2.9)&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;周日-29&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e5%91%a8%e6%97%a5-29&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;W·D·Gaster 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/MATH1015B&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;微积分 B&lt;/a&gt; 中提交了信息：以 .gitkeep 文件替代无用的 readme.md 文件 (#9)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;周六 (2.8)&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;周六-28&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e5%91%a8%e5%85%ad-28&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;W·D·Gaster 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/COMP2014&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;C++ 语言程序设计&lt;/a&gt; 中提交了信息：以 .gitkeep 文件替代无用的 readme.md 文件 (#5)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;W·D·Gaster 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/MATH1002&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;代数与几何&lt;/a&gt; 中提交了信息：以 .gitkeep 文件替代无用的 readme.md 文件；整理文件夹 (#14)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;W·D·Gaster 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/GEIP1015&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;思想道德与法治&lt;/a&gt; 中提交了信息：以 .gitkeep 文件替代无用的 readme.md 文件 (#4)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;W·D·Gaster 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/GEIP1017&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;习近平新时代中国特色社会主义思想概论&lt;/a&gt; 中提交了信息：以 .gitkeep 文件替代无用的 readme.md 文件 (#3)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;W·D·Gaster 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/EE1012B&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;电路实验 IB&lt;/a&gt; 中提交了信息：以 .gitkeep 文件替代无用的 readme.md 文件 (#7)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;W·D·Gaster 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/MATH1015A&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;微积分 A&lt;/a&gt; 中提交了信息：以 .gitkeep 文件替代无用的 readme.md 文件 (#14)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>AUTO 周报 2025-01-31 - 2025-02-07</title>
+      <link>http://localhost:9623/news/weekly/weekly-2025-01-31/</link>
+      <pubDate>Fri, 07 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:9623/news/weekly/weekly-2025-01-31/</guid>
+      <description>
+        
+        
+        &lt;p&gt;&lt;img src=&#34;generated_image_cropped.png&#34; alt=&#34;AI Image of the Week&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;h2&gt;更新内容&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;更新内容&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e6%9b%b4%e6%96%b0%e5%86%85%e5%ae%b9&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;周一 (2.3)&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;周一-23&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e5%91%a8%e4%b8%80-23&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;吴俊达 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/AUTO3003&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;数字图像处理&lt;/a&gt; 中提交了信息：更新 WJD 作业（采用新方式编译减小空间占用） (#13)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;周日 (2.2)&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;周日-22&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e5%91%a8%e6%97%a5-22&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;IcyDesert 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/EMEC1002&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;理论力学Ⅱ&lt;/a&gt; 中提交了信息：补充凡友华老师上课情况；补充 24 秋期末考试情况，上传回忆版试卷 (#8)&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>AUTO 周报 2025-01-24 - 2025-01-31</title>
+      <link>http://localhost:9623/news/weekly/weekly-2025-01-24/</link>
+      <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:9623/news/weekly/weekly-2025-01-24/</guid>
+      <description>
+        
+        
+        &lt;p&gt;&lt;img src=&#34;generated_image_cropped.png&#34; alt=&#34;AI Image of the Week&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;h2&gt;更新内容&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;更新内容&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e6%9b%b4%e6%96%b0%e5%86%85%e5%ae%b9&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;周五 (1.31)&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;周五-131&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e5%91%a8%e4%ba%94-131&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;zhuqi000 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/PHYS1002&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;大学物理实验&lt;/a&gt; 中提交了信息：增加了几份大雾实验报告 (#37)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;周二 (1.28)&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;周二-128&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e5%91%a8%e4%ba%8c-128&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;吴俊达 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/AUTO3019&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;机器学习概论&lt;/a&gt; 中提交了信息：更新 2024 秋季情况 (#3)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Maxwell Jay 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/AUTO3001A&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;自动控制理论 A&lt;/a&gt; 中提交了信息：更新课程文档、上传 2024 年期末试题及参考答案 (#10)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;周日 (1.26)&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;周日-126&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e5%91%a8%e6%97%a5-126&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;W·D·Gaster 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/AUTO2003B&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;创新训练课 B&lt;/a&gt; 中提交了信息：以 .gitkeep 文件替代无用的 readme.md 文件 (#8)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;W·D·Gaster 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/GEIP1016&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;中国近现代史纲要&lt;/a&gt; 中提交了信息：以 .gitkeep 文件替代无用的 readme.md 文件 (#10)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;W·D·Gaster 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/MATH1005&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;复变函数与积分变换&lt;/a&gt; 中提交了信息：删除无用的 readme 文件 (#16)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;W·D·Gaster 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/EE2004&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;高等电路与电子分析&lt;/a&gt; 中提交了信息：以 .gitkeep 文件替代无用的 readme.md 文件，添加一份笔记 (#2)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;W·D·Gaster 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/GEIP1011&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;马克思主义基本原理&lt;/a&gt; 中提交了信息：以 .gitkeep 文件替代无用的 readme.md 文件 (#20)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;周六 (1.25)&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;周六-125&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e5%91%a8%e5%85%ad-125&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;W·D·Gaster 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/PHYS1001&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;大学物理&lt;/a&gt; 中提交了信息：修改部分文件命名，上传 24 秋本部章节练习题，补充大物 II 部分内容，修改学习建议 (#11)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;吴俊达 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/AUTO3001B&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;自动控制理论 B&lt;/a&gt; 中提交了信息：更新显示错误的学分数&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Hye 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/AUTO5023&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;凸优化与最优控制&lt;/a&gt; 中提交了信息：更新课程说明；更新 2024 秋考试试题 (#6)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;吴俊达 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/AUTO3001B&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;自动控制理论 B&lt;/a&gt; 中提交了信息：更改文件名 (#11)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Maxwell Jay 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/AUTO3003&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;数字图像处理&lt;/a&gt; 中提交了信息：2024 年 DIP 课程文档和资料更新 (#12)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;吴俊达 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/AUTO3022&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;自动化领域专家系列讲座&lt;/a&gt; 中提交了信息：更新 README.md&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;吴俊达 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/COMP1011&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;程序设计思维与实践&lt;/a&gt; 中提交了信息：Update tag.txt&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;周五 (1.24)&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;周五-124&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e5%91%a8%e4%ba%94-124&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;吴俊达 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/COMP1011&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;程序设计思维与实践&lt;/a&gt; 中提交了信息：Update tag.txt&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;吴俊达 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/MATH4001&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;（示例）大学物理实验&lt;/a&gt; 中提交了信息：Initial commit&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;IcyDesert 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/MECH2010&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;机械设计基础&lt;/a&gt; 中提交了信息：删除仓库文件夹中无意义的 README.md，以 .gitkeep 占位 (#5)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;W·D·Gaster 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/AUTO2005&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;信号分析与处理&lt;/a&gt; 中提交了信息：修改落款格式，将课程内容单列使之更清晰 (#16)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;W·D·Gaster 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/COMP1011&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;程序设计思维与实践&lt;/a&gt; 中提交了信息：添加 23 级作业和实验代码文件，修改部分文件命名，修改 readme 部分的格式问题 (#8)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;吴俊达 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/AUTO3006&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;机器视觉&lt;/a&gt; 中提交了信息：更新文件命名；更新实验报告、作业版本（其中代码已做处理） (#9)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;吴俊达 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/AUTO3024&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;嵌入式系统&lt;/a&gt; 中提交了信息：更新一个实验报告版本；根据同学们的反馈更新课程描述 (#3)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;guoyuchen2004 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/MATH1005&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;复变函数与积分变换&lt;/a&gt; 中提交了信息：Update README.md (#14)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;guoyuchen2004 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/MATH1004&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;概率论与数理统计&lt;/a&gt; 中提交了信息：Update README.md (#13)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;IcyDesert 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/AUTO3001B&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;自动控制理论 B&lt;/a&gt; 中提交了信息：删除仓库文件夹中无意义的 README.md，以 .gitkeep 占位 (#10)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>AUTO 周报 2025-01-17 - 2025-01-24</title>
+      <link>http://localhost:9623/news/weekly/weekly-2025-01-17/</link>
+      <pubDate>Fri, 24 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:9623/news/weekly/weekly-2025-01-17/</guid>
+      <description>
+        
+        
+        &lt;p&gt;&lt;img src=&#34;generated_image_cropped.png&#34; alt=&#34;AI Image of the Week&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;h2&gt;更新内容&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;更新内容&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e6%9b%b4%e6%96%b0%e5%86%85%e5%ae%b9&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;周五 (1.24)&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;周五-124&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e5%91%a8%e4%ba%94-124&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;W·D·Gaster 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/AUTO2005&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;信号分析与处理&lt;/a&gt; 中提交了信息：修改落款格式，将课程内容单列使之更清晰 (#16)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;W·D·Gaster 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/COMP2021&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;高级语言程序设计&lt;/a&gt; 中提交了信息：添加 23 级作业和实验代码文件，修改部分文件命名，修改 readme 部分的格式问题 (#8)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;吴俊达 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/AUTO3006&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;机器视觉&lt;/a&gt; 中提交了信息：更新文件命名；更新实验报告、作业版本（其中代码已做处理） (#9)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;吴俊达 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/AUTO3024&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;嵌入式系统&lt;/a&gt; 中提交了信息：更新一个实验报告版本；根据同学们的反馈更新课程描述 (#3)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;guoyuchen2004 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/MATH1005&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;复变函数与积分变换&lt;/a&gt; 中提交了信息：Update README.md (#14)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;guoyuchen2004 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/MATH1004&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;概率论与数理统计&lt;/a&gt; 中提交了信息：Update README.md (#13)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;IcyDesert 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/AUTO3001B&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;自动控制理论 B&lt;/a&gt; 中提交了信息：删除仓库文件夹中无意义的 README.md，以 .gitkeep 占位 (#10)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;IcyDesert 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/AUTO3005&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;机器人学导论&lt;/a&gt; 中提交了信息：删除仓库文件夹中无意义的 README.md，以 .gitkeep 占位 (#12)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;周四 (1.23)&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;周四-123&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e5%91%a8%e5%9b%9b-123&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;W·D·Gaster 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/MATH1004&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;概率论与数理统计&lt;/a&gt; 中提交了信息：修改部分文件命名和文件夹归属，添加教材 (#10)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;IcyDesert 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/AUTO3003&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;数字图像处理&lt;/a&gt; 中提交了信息：删除仓库文件夹中无意义的 README.md，以 .gitkeep 占位 (#11)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;longlin li 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/MATH1015A&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;微积分 A&lt;/a&gt; 中提交了信息：Update trigger-workflow.yml (#13)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;IcyDesert 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/AUTO3007&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;过程控制系统&lt;/a&gt; 中提交了信息：删除仓库文件夹中无意义的 README.md，以 .gitkeep 占位 (#12)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;IcyDesert 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/EE3005&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DSP 的原理与应用&lt;/a&gt; 中提交了信息：删除仓库文件夹中无意义的 README.md，以 .gitkeep 占位&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;IcyDesert 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/AUTO3011&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;运动控制系统&lt;/a&gt; 中提交了信息：删除仓库文件夹中无意义的 README.md，以 .gitkeep 占位&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;IcyDesert 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/AUTO3006&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;机器视觉&lt;/a&gt; 中提交了信息：删除仓库文件夹中无意义的 README.md，以 .gitkeep 占位&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;IcyDesert 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/AUTO3002B&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;自动控制实践 B&lt;/a&gt; 中提交了信息：删除仓库文件夹中无意义的 README.md，以 .gitkeep 占位 (#9)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;IcyDesert 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/AUTO3022&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;自动化领域专家系列讲座&lt;/a&gt; 中提交了信息：删除仓库文件夹中无意义的 README.md，以 .gitkeep 占位&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;IcyDesert 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/AUTO5024&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;模式识别&lt;/a&gt; 中提交了信息：删除仓库文件夹中无意义的 README.md，以 .gitkeep 占位&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;IcyDesert 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/AUTO3028&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;数学规划与数值优化&lt;/a&gt; 中提交了信息：删除仓库文件夹中无意义的 README.md，以 .gitkeep 占位&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;IcyDesert 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/AUTO3024&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;嵌入式系统&lt;/a&gt; 中提交了信息：删除仓库文件夹中无意义的 README.md，以 .gitkeep 占位&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;IcyDesert 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/AUTO3019&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;机器学习概论&lt;/a&gt; 中提交了信息：删除仓库文件夹中无意义的 README.md，以 .gitkeep 占位&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;W·D·Gaster 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/GEIP1016&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;中国近现代史纲要&lt;/a&gt; 中提交了信息：修改文档落款格式，删除不明确的老师说明 (#9)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;W·D·Gaster 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/EE1007&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;模拟电子技术基础&lt;/a&gt; 中提交了信息：上传误删的哈工大 10-16 试题 (#13)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;W·D·Gaster 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/EE1009&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;数字电子技术基础&lt;/a&gt; 中提交了信息：修改 readme 文档的部分格式，修改部分文件命名 (#14)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;周三 (1.22)&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;周三-122&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e5%91%a8%e4%b8%89-122&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;W·D·Gaster 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/MATH1005&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;复变函数与积分变换&lt;/a&gt; 中提交了信息：修改部分文件命名，上传高瑜老师的讲义 (#12)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;IcyDesert 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/AUTO3004&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;系统建模与仿真&lt;/a&gt; 中提交了信息：删除仓库文件夹中无意义的 README.md，以 .gitkeep 占位 (#11)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;IcyDesert 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/AUTO3016&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;自动控制实践 A 实验&lt;/a&gt; 中提交了信息：删除仓库文件夹中无意义的 README.md，以 .gitkeep 占位&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;IcyDesert 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/AUTO3002A&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;自动控制实践 A&lt;/a&gt; 中提交了信息：删除仓库文件夹中无意义的 README.md，以 .gitkeep 占位 (#26)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;IcyDesert 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/AUTO3001A&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;自动控制理论 A&lt;/a&gt; 中提交了信息：删除仓库文件夹中无意义的 README.md，以 .gitkeep 占位&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;IcyDesert 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/ENGG1002&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;工程训练（金工实习）&lt;/a&gt; 中提交了信息：删除仓库文件夹中无意义的 README.md，以 .gitkeep 占位&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;IcyDesert 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/PE100X&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;体育&lt;/a&gt; 中提交了信息：删除仓库文件夹中无意义的 README.md，以 .gitkeep 占位&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;IcyDesert 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/EMEC1002&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;理论力学Ⅱ&lt;/a&gt; 中提交了信息：删除仓库文件夹中无意义的 README.md，以 .gitkeep 占位&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;IcyDesert 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/EE1010&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;数字电子技术实验&lt;/a&gt; 中提交了信息：删除仓库文件夹中无意义的 README.md，以 .gitkeep 占位&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;IcyDesert 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/AUTO2005&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;信号分析与处理&lt;/a&gt; 中提交了信息：删除仓库文件夹中无意义的 README.md，以 .gitkeep 占位 (#17)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;IcyDesert 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/EE1009&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;数字电子技术基础&lt;/a&gt; 中提交了信息：删除仓库文件夹中无意义的 README.md，以 .gitkeep 占位 (#15)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;吴俊达 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/AUTO5005&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;非线性与自适应控制&lt;/a&gt; 中提交了信息：更新非线性与自适应控制笔记和试卷 (#2)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;周二 (1.21)&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;周二-121&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e5%91%a8%e4%ba%8c-121&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;IcyDesert 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/EE1007&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;模拟电子技术基础&lt;/a&gt; 中提交了信息：删除仓库文件夹中无意义的 README.md，以 .gitkeep 占位 (#12)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;IcyDesert 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/EE1008&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;模拟电子技术实验&lt;/a&gt; 中提交了信息：删除仓库文件夹中无意义的 README.md，以 .gitkeep 占位&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;W·D·Gaster 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/EE1007&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;模拟电子技术基础&lt;/a&gt; 中提交了信息：补充谷雨老师的评价，修改 readme 的部分格式，修改部分文件命名&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;IcyDesert 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/AUTO1001&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;自动化认知与实践&lt;/a&gt; 中提交了信息：加入 .gitkeep 作为文件夹占位 (#16)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;IcyDesert 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/COMP2050&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;数据结构与算法&lt;/a&gt; 中提交了信息：删除仓库文件夹中无意义的 README.md，以 .gitkeep 占位&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;IcyDesert 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/AUTO2006&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;控制理论中的代数基础&lt;/a&gt; 中提交了信息：删除仓库文件夹中无意义的 README.md，以 .gitkeep 占位&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;IcyDesert 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/GEIP1018&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;毛泽东思想和中国特色社会主义理论体系概论&lt;/a&gt; 中提交了信息：删除仓库文件夹中无意义的 README.md，以 .gitkeep 占位&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;IcyDesert 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/EE2005&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;系统与控制&lt;/a&gt; 中提交了信息：删除仓库文件夹中无意义的 README.md，以 .gitkeep 占位&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;W·D·Gaster 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/MATH1015A&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;微积分 A&lt;/a&gt; 中提交了信息：补充教材 (#11)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;周一 (1.20)&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;周一-120&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e5%91%a8%e4%b8%80-120&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;W·D·Gaster 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/AUTO1001&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;自动化认知与实践&lt;/a&gt; 中提交了信息：Merge pull request #15 from WDGaster703/main&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;WDGaster 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/AUTO1001&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;自动化认知与实践&lt;/a&gt; 中提交了信息：修复 psp 的笔记，删除 readme，修改文档落款格式&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;周日 (1.19)&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;周日-119&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e5%91%a8%e6%97%a5-119&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;吴俊达 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/AUTO3007&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;过程控制系统&lt;/a&gt; 中提交了信息：整理资料（修改文件名；删除不具有参考价值的资料） (#10)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;longlin li 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/WRIT0001&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;写作与沟通&lt;/a&gt; 中提交了信息：delete: 删除学期信息 (#2)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;吴俊达 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/WOCD1008&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;日语 I&lt;/a&gt; 中提交了信息：Update tag.txt&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;吴俊达 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/SPST1004&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;普通天文学&lt;/a&gt; 中提交了信息：Update tag.txt&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;吴俊达 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/AUTO5001&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;线性系统理论&lt;/a&gt; 中提交了信息：更新课程说明；更新 2024 秋考试试题 (#3)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;W·D·Gaster 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/LANG100X&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;大学英语&lt;/a&gt; 中提交了信息：添加韩烨和毕鑫的评价&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;W·D·Gaster 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/AUTO1001&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;自动化认知与实践&lt;/a&gt; 中提交了信息：重命名部分文件 f&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;W·D·Gaster 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/AUTO1001&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;自动化认知与实践&lt;/a&gt; 中提交了信息：重命名部分文件&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;W·D·Gaster 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/MATH1015B&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;微积分 B&lt;/a&gt; 中提交了信息：补充教材&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;W·D·Gaster 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/GEIP1015&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;思想道德与法治&lt;/a&gt; 中提交了信息：修改授课老师&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;W·D·Gaster 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/MATH1015B&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;微积分 B&lt;/a&gt; 中提交了信息：修改格式&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;OliverWu515 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/AUTO3012&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;移动机器人导论&lt;/a&gt; 中提交了信息：新增实验原本任务文件以资对照&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;W·D·Gaster 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/GEIP1016&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;中国近现代史纲要&lt;/a&gt; 中提交了信息：修改文档名称 (#8)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;W·D·Gaster 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/GEIP1011&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;马克思主义基本原理&lt;/a&gt; 中提交了信息：修改未统一的文档命名 (#16)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;OliverWu515 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/AUTO3012&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;移动机器人导论&lt;/a&gt; 中提交了信息：将文件扩展名改回 md；修改原先的作业&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;OliverWu515 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/AUTO3022&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;自动化领域专家系列讲座&lt;/a&gt; 中提交了信息：更改开课学期&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;OliverWu515 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/AUTO3022&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;自动化领域专家系列讲座&lt;/a&gt; 中提交了信息：新增课程信息与报告模板&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;吴俊达 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/AUTO3001A&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;自动控制理论 A&lt;/a&gt; 中提交了信息：更新一个实验报告版本；重命名文件夹及整理文件 (#7)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;周六 (1.18)&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;周六-118&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e5%91%a8%e5%85%ad-118&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;W·D·Gaster 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/GEIP1017&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;习近平新时代中国特色社会主义思想概论&lt;/a&gt; 中提交了信息：修改不统一的文件命名和分类 (#2)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;W·D·Gaster 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/GEIP1015&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;思想道德与法治&lt;/a&gt; 中提交了信息：调整文件位置 (#3)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;吴俊达 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/AUTO3002A&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;自动控制实践 A&lt;/a&gt; 中提交了信息：增加一个实验报告版本 (#25)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;吴俊达 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/AUTO3016&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;自动控制实践 A 实验&lt;/a&gt; 中提交了信息：更新 2022 实验报告版本；更新 README (#13)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Origami404 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/GEIP1015&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;思想道德与法治&lt;/a&gt; 中提交了信息：OpenCS 内容合并 (#2)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Origami404 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/MATH1004&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;概率论与数理统计&lt;/a&gt; 中提交了信息：OpenCS 内容合并 (#9)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Origami404 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/GEIP1018&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;毛泽东思想和中国特色社会主义理论体系概论&lt;/a&gt; 中提交了信息：OpenCS 内容合并 (#6)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Origami404 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/MATH1015B&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;微积分 B&lt;/a&gt; 中提交了信息：OpenCS 内容合并 (#8)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Origami404 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/GEIP1016&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;中国近现代史纲要&lt;/a&gt; 中提交了信息：OpenCS 内容合并 (#7)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Origami404 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/GEIP1011&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;马克思主义基本原理&lt;/a&gt; 中提交了信息：OpenCS 内容合并 (#15)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Origami404 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/MATH1015A&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;微积分 A&lt;/a&gt; 中提交了信息：OpenCS 内容合并 (#10)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;周五 (1.17)&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;周五-117&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e5%91%a8%e4%ba%94-117&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Origami404 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/COMP2021&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;高级语言程序设计&lt;/a&gt; 中提交了信息：OpenCS 内容合并 (#7)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;psp_dada 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/AUTO3001A&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;自动控制理论 A&lt;/a&gt; 中提交了信息：上传实验相关内容 (#6)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>AUTO 周报 2025-01-12 - 2025-01-19</title>
+      <link>http://localhost:9623/news/weekly/weekly-2025-01-12/</link>
+      <pubDate>Sun, 19 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:9623/news/weekly/weekly-2025-01-12/</guid>
+      <description>
+        
+        
+        &lt;p&gt;&lt;img src=&#34;generated_image_cropped.png&#34; alt=&#34;AI Image of the Week&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;h2&gt;更新内容&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;更新内容&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e6%9b%b4%e6%96%b0%e5%86%85%e5%ae%b9&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;周日 (1.19)&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;周日-119&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e5%91%a8%e6%97%a5-119&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;W·D·Gaster 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/LANG100X&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;大学英语&lt;/a&gt; 中提交了信息：添加韩烨和毕鑫的评价&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;W·D·Gaster 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/AUTO1001&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;自动化认知与实践&lt;/a&gt; 中提交了信息：重命名部分文件 f&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;W·D·Gaster 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/AUTO1001&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;自动化认知与实践&lt;/a&gt; 中提交了信息：重命名部分文件&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;W·D·Gaster 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/MATH1015B&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;微积分 B&lt;/a&gt; 中提交了信息：补充教材&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;W·D·Gaster 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/GEIP1015&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;思想道德与法治&lt;/a&gt; 中提交了信息：修改授课老师&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;W·D·Gaster 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/MATH1015B&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;微积分 B&lt;/a&gt; 中提交了信息：修改格式&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;OliverWu515 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/AUTO3012&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;移动机器人导论&lt;/a&gt; 中提交了信息：新增实验原本任务文件以资对照&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;W·D·Gaster 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/GEIP1016&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;中国近现代史纲要&lt;/a&gt; 中提交了信息：修改文档名称 (#8)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;W·D·Gaster 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/GEIP1011&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;马克思主义基本原理&lt;/a&gt; 中提交了信息：修改未统一的文档命名 (#16)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;OliverWu515 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/AUTO3012&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;移动机器人导论&lt;/a&gt; 中提交了信息：将文件扩展名改回 md；修改原先的作业&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;OliverWu515 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/AUTO3022&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;自动化领域专家系列讲座&lt;/a&gt; 中提交了信息：更改开课学期&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;OliverWu515 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/AUTO3022&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;自动化领域专家系列讲座&lt;/a&gt; 中提交了信息：新增课程信息与报告模板&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;吴俊达 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/AUTO3001A&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;自动控制理论 A&lt;/a&gt; 中提交了信息：更新一个实验报告版本；重命名文件夹及整理文件 (#7)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;周六 (1.18)&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;周六-118&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e5%91%a8%e5%85%ad-118&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;W·D·Gaster 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/GEIP1017&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;习近平新时代中国特色社会主义思想概论&lt;/a&gt; 中提交了信息：修改不统一的文件命名和分类 (#2)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;W·D·Gaster 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/GEIP1015&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;思想道德与法治&lt;/a&gt; 中提交了信息：调整文件位置 (#3)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;吴俊达 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/AUTO3002A&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;自动控制实践 A&lt;/a&gt; 中提交了信息：增加一个实验报告版本 (#25)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;吴俊达 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/AUTO3016&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;自动控制实践 A 实验&lt;/a&gt; 中提交了信息：更新 2022 实验报告版本；更新 README (#13)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Origami404 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/GEIP1015&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;思想道德与法治&lt;/a&gt; 中提交了信息：OpenCS 内容合并 (#2)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Origami404 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/MATH1004&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;概率论与数理统计&lt;/a&gt; 中提交了信息：OpenCS 内容合并 (#9)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Origami404 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/GEIP1018&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;毛泽东思想和中国特色社会主义理论体系概论&lt;/a&gt; 中提交了信息：OpenCS 内容合并 (#6)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Origami404 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/MATH1015B&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;微积分 B&lt;/a&gt; 中提交了信息：OpenCS 内容合并 (#8)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Origami404 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/GEIP1016&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;中国近现代史纲要&lt;/a&gt; 中提交了信息：OpenCS 内容合并 (#7)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Origami404 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/GEIP1011&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;马克思主义基本原理&lt;/a&gt; 中提交了信息：OpenCS 内容合并 (#15)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Origami404 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/MATH1015A&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;微积分 A&lt;/a&gt; 中提交了信息：OpenCS 内容合并 (#10)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;周五 (1.17)&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;周五-117&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e5%91%a8%e4%ba%94-117&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Origami404 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/COMP2021&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;高级语言程序设计&lt;/a&gt; 中提交了信息：OpenCS 内容合并 (#7)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;psp_dada 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/AUTO3001A&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;自动控制理论 A&lt;/a&gt; 中提交了信息：上传实验相关内容 (#6)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;周二 (1.14)&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;周二-114&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e5%91%a8%e4%ba%8c-114&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;psp_dada 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/AUTO3001A&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;自动控制理论 A&lt;/a&gt; 中提交了信息：上传 24 作业详解 (#5)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;psp_dada 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/AUTO3016&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;自动控制实践 A 实验&lt;/a&gt; 中提交了信息：添加新报告 (#12)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;psp_dada 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/AUTO3002A&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;自动控制实践 A&lt;/a&gt; 中提交了信息：上传 24 作业 (#23)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;psp_dada 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/AUTO5024&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;模式识别&lt;/a&gt; 中提交了信息：上传实验报告 (#6)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;psp_dada 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/PHYS1002&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;大学物理实验&lt;/a&gt; 中提交了信息：重新上传个人的实验报告 (#36)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>AUTO 周报 2024-12-13 - 2024-12-20</title>
+      <link>http://localhost:9623/news/weekly/weekly-2024-12-13/</link>
+      <pubDate>Fri, 20 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:9623/news/weekly/weekly-2024-12-13/</guid>
+      <description>
+        
+        
+        &lt;p&gt;&lt;img src=&#34;generated_image_cropped.png&#34; alt=&#34;AI Image of the Week&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;h2&gt;✨AI 摘要&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;ai-摘要&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#ai-%e6%91%98%e8%a6%81&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;每周提交报告摘要&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;每周提交报告摘要&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e6%af%8f%e5%91%a8%e6%8f%90%e4%ba%a4%e6%8a%a5%e5%91%8a%e6%91%98%e8%a6%81&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;在过去的一周内（12 月 15 日到 12 月 20 日），多个用户在多个项目中进行了多项提交。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;主要更新内容如下：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;WDGaster703 在多个课程中补充了基本信息、开课学期和名称，并对成绩构成进行了修改。&lt;/li&gt;
+&lt;li&gt;psp_dada 上传了作业笔记和试题详解，涵盖了多个课程。&lt;/li&gt;
+&lt;li&gt;Kowyo 修复了自动控制实践 B 中的错误链接，并更新了课程描述。&lt;/li&gt;
+&lt;li&gt;zhuqi000 增加了复变函数与积分变换的笔记新版本。&lt;/li&gt;
+&lt;li&gt;吴俊达 修订了电路 IA 的课件。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;总体上，用户们积极更新课程内容，补充相关信息，并上传学习资料，为后续学习提供帮助。&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>AUTO 周报 2024-12-06 - 2024-12-13</title>
+      <link>http://localhost:9623/news/weekly/weekly-2024-12-06/</link>
+      <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:9623/news/weekly/weekly-2024-12-06/</guid>
+      <description>
+        
+        
+        &lt;p&gt;&lt;img src=&#34;generated_image_cropped.png&#34; alt=&#34;AI Image of the Week&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;h2&gt;✨AI 摘要&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;ai-摘要&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#ai-%e6%91%98%e8%a6%81&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;本周提交报告摘要如下：&lt;/p&gt;
+&lt;h3&gt;更新内容&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;更新内容&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e6%9b%b4%e6%96%b0%e5%86%85%e5%ae%b9&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;周四 (12.12)&lt;/strong&gt;：吴俊达在&lt;a href=&#34;https://github.com/HITSZ-OpenAuto/AUTO3002A&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;自动控制实践 A&lt;/a&gt;中提交了信息，更新了笔记中的一些 bug (#19)。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;周三 (12.11)&lt;/strong&gt;：吴俊达在&lt;a href=&#34;https://github.com/HITSZ-OpenAuto/EE1009&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;数字电子技术基础&lt;/a&gt;中提交了趣题解析的更新 (#11)。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;周二 (12.10)&lt;/strong&gt;：吴俊达在&lt;a href=&#34;https://github.com/HITSZ-OpenAuto/EE1009&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;数字电子技术基础&lt;/a&gt;中更新了 2024 年数电试题解析，趣题解答及仿真文件，更新了 README (#10)。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;周日 (12.8)&lt;/strong&gt;：吴俊达在&lt;a href=&#34;https://github.com/HITSZ-OpenAuto/EE1011A&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;电路 IA&lt;/a&gt;中更新了补习材料。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;本周的更新集中在多个电气工程课程的资料和解答上。&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>AUTO 周报 2024-11-29 - 2024-12-06</title>
+      <link>http://localhost:9623/news/weekly/weekly-2024-11-29/</link>
+      <pubDate>Fri, 06 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:9623/news/weekly/weekly-2024-11-29/</guid>
+      <description>
+        
+        
+        &lt;p&gt;&lt;img src=&#34;generated_image_cropped.png&#34; alt=&#34;AI Image of the Week&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;h2&gt;✨AI 摘要&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;ai-摘要&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#ai-%e6%91%98%e8%a6%81&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h2&gt;每周提交报告总结&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;每周提交报告总结&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e6%af%8f%e5%91%a8%e6%8f%90%e4%ba%a4%e6%8a%a5%e5%91%8a%e6%80%bb%e7%bb%93&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;本周的更新内容如下：&lt;/p&gt;
+&lt;h3&gt;周三 (12.4)&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;周三-124&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e5%91%a8%e4%b8%89-124&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Kowyo 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/AUTO3002A&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;自动控制实践 A&lt;/a&gt; 中提交了关于课后习题的相关资料。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;周二 (12.3)&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;周二-123&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e5%91%a8%e4%ba%8c-123&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;longlin li 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/AUTO2003B&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;创新训练课 B&lt;/a&gt; 中更新了文档，修改了链接样式。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;周一 (12.2)&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;周一-122&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e5%91%a8%e4%b8%80-122&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;IcyDesert 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/EMEC1002&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;理论力学Ⅱ&lt;/a&gt; 中合并了第七个拉取请求，并补充了 2024 年秋季的期中考试情况，上传了试卷和答案。&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>AUTO 周报 2024-11-23 - 2024-11-30</title>
+      <link>http://localhost:9623/news/weekly/weekly-2024-11-23/</link>
+      <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:9623/news/weekly/weekly-2024-11-23/</guid>
+      <description>
+        
+        
+        &lt;p&gt;&lt;img src=&#34;generated_image_cropped.png&#34; alt=&#34;AI Image of the Week&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;h2&gt;✨AI 摘要&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;ai-摘要&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#ai-%e6%91%98%e8%a6%81&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;每周提交报告总结&lt;/strong&gt;&lt;/p&gt;
+&lt;h3&gt;更新内容&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;更新内容&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e6%9b%b4%e6%96%b0%e5%86%85%e5%ae%b9&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;h4&gt;周一 (11.25)&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;周一-1125&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e5%91%a8%e4%b8%80-1125&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;345ljh 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/AUTO3012&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;移动机器人导论&lt;/a&gt; 中提交了信息：添加实验代码 (#2)&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>AUTO 周报 2024-11-15 - 2024-11-22</title>
+      <link>http://localhost:9623/news/weekly/weekly-2024-11-15/</link>
+      <pubDate>Fri, 22 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:9623/news/weekly/weekly-2024-11-15/</guid>
+      <description>
+        
+        
+        &lt;p&gt;&lt;img src=&#34;generated_image_cropped.png&#34; alt=&#34;AI Image of the Week&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;h2&gt;✨AI 摘要&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;ai-摘要&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#ai-%e6%91%98%e8%a6%81&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;每周提交报告总结&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;每周提交报告总结&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e6%af%8f%e5%91%a8%e6%8f%90%e4%ba%a4%e6%8a%a5%e5%91%8a%e6%80%bb%e7%bb%93&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;在过去一周的提交中，我们主要进行了以下更新：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;周五 (11.22)&lt;/strong&gt;：345ljh 在数字图像处理项目中提交了课设报告和答辩 PPT。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;周一 (11.18)&lt;/strong&gt;：GitHub Actions 更新了 .github 文件夹中的 README.md。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;周日 (11.17)&lt;/strong&gt;：Kowyo 和 Hye 在课程评价项目中进行了一系列更新，包括修改触发工作流和通过留言板征集课程评价。吴俊达对自动控制理论 B 的 README.md 进行了更新，并更新了实验报告，同时下架了一份有误的实验报告。此外，Kowyo 在多个课程中更新了工作流以启用单页构建。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;周六 (11.16)&lt;/strong&gt;：oliver-wu 在凸优化与最优控制项目中测试了新的触发工作流，同时在自动控制实践 A 实验项目中更新了 Word 版本。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;这一周的提交涵盖了课程报告的更新、工作流的优化及 README 的维护，为接下来的工作做好了准备。&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>AUTO 周报 2024-11-08 - 2024-11-15</title>
+      <link>http://localhost:9623/news/weekly/weekly-2024-11-08/</link>
+      <pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:9623/news/weekly/weekly-2024-11-08/</guid>
+      <description>
+        
+        
+        &lt;p&gt;&lt;img src=&#34;generated_image_cropped.png&#34; alt=&#34;AI Image of the Week&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;h2&gt;✨AI 摘要&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;ai-摘要&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#ai-%e6%91%98%e8%a6%81&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;每周提交报告总结&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;每周提交报告总结&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e6%af%8f%e5%91%a8%e6%8f%90%e4%ba%a4%e6%8a%a5%e5%91%8a%e6%80%bb%e7%bb%93&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;h4&gt;周六 (11.9)&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;周六-119&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e5%91%a8%e5%85%ad-119&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;动量子在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/PHYS1002&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;大学物理实验&lt;/a&gt; 项目中提交了一项更新：增加了动量子 Typst 实验模板至 README.md (#33)。&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>AUTO 周报 2024-11-01 - 2024-11-08</title>
+      <link>http://localhost:9623/news/weekly/weekly-2024-11-01/</link>
+      <pubDate>Fri, 08 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:9623/news/weekly/weekly-2024-11-01/</guid>
+      <description>
+        
+        
+        &lt;p&gt;&lt;img src=&#34;generated_image_cropped.png&#34; alt=&#34;AI Image of the Week&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;h2&gt;✨AI 摘要&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;ai-摘要&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#ai-%e6%91%98%e8%a6%81&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;每周提交报告摘要&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;每周提交报告摘要&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e6%af%8f%e5%91%a8%e6%8f%90%e4%ba%a4%e6%8a%a5%e5%91%8a%e6%91%98%e8%a6%81&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;在周二（11 月 5 日），oliver-wu 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/AUTO2005&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;信号分析与处理&lt;/a&gt; 项目中提交了更新信息，内容为更新了一份信号笔记。&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>AUTO 周报 2024-10-26 - 2024-11-02</title>
+      <link>http://localhost:9623/news/weekly/weekly-2024-10-26/</link>
+      <pubDate>Sat, 02 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:9623/news/weekly/weekly-2024-10-26/</guid>
+      <description>
+        
+        
+        &lt;p&gt;&lt;img src=&#34;generated_image_cropped.png&#34; alt=&#34;AI Image of the Week&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;h2&gt;✨AI 摘要&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;ai-摘要&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#ai-%e6%91%98%e8%a6%81&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h4&gt;每周提交报告总结&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;每周提交报告总结&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e6%af%8f%e5%91%a8%e6%8f%90%e4%ba%a4%e6%8a%a5%e5%91%8a%e6%80%bb%e7%bb%93&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;在过去的一周中，共有若干重要提交记录：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;周三 (10.30)&lt;/strong&gt;：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;oliver-wu 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/MATH4004&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;数值分析&lt;/a&gt; 更新了成绩构成信息，并上线了新课程。&lt;/li&gt;
+&lt;li&gt;GitHub Actions 更新了 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/.github&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;.github&lt;/a&gt; 的 README.md 文件。&lt;/li&gt;
+&lt;li&gt;psp_dada 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/AUTO3001A&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;自动控制理论 A&lt;/a&gt; 重新上传了课程 PPT。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;周二 (10.29)&lt;/strong&gt;：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;吴俊达 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/MATH4004&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;数值分析&lt;/a&gt; 提交了初始版本。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;周日 (10.27)&lt;/strong&gt;：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;oliver-wu 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/AUTO3012&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;移动机器人导论&lt;/a&gt; 更新了一份实验报告和一份作业。&lt;/li&gt;
+&lt;li&gt;oliver-wu 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/AUTO5002&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;系统辨识&lt;/a&gt; 更新了多份资料。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;本周的提交主要集中在数值分析和课程资料的更新上，反映了项目的持续发展和教学内容的完善。&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>📍 HOA 一周年：回顾与纳新</title>
+      <link>http://localhost:9623/news/1st-anniversary/summary/</link>
+      <pubDate>Mon, 28 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:9623/news/1st-anniversary/summary/</guid>
+      <description>
+        
+        
+        &lt;p&gt;承蒙各位支持，我们的网站在过去一年中收获了 &lt;strong&gt;23 万+&lt;/strong&gt; 的浏览量，课程仓库数增加至 &lt;strong&gt;60 余个&lt;/strong&gt;，总课程资料大小超过 &lt;strong&gt;10G&lt;/strong&gt;，并且仍在不断丰富中。&lt;/p&gt;
+&lt;div align=center&gt; &lt;img src=&#34;./pic/user.png&#34; alt=&#34;user&#34;/&gt; &lt;/div&gt;
+&lt;p&gt;HOA 网站（OpenAuto 2.0）的几位创始人结合自身的经历各写了一篇感想，角度各异，欢迎各位阅读：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Kowyo：&lt;a href=&#34;https://hoa.moe/news/1st-anniversary/kowyo/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;《开源的心情：杂志、画画与创业公司》&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Longlin Li：&lt;a href=&#34;https://hoa.moe/news/1st-anniversary/longlin/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;《写在 HOA 一周年之际——从前端开发者视角讲述的 OpenAuto 发展历程》&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Maxwell Jay：&lt;a href=&#34;https://hoa.moe/news/1st-anniversary/maxwell/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;《杂谈：关于分享知识——HOA 一周年纪念》&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Oliver Wu：&lt;a href=&#34;https://hoa.moe/news/1st-anniversary/oliverwu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;《OpenAuto 一周年生日纪——从资料维护者视角讲述的 OpenAuto 发展历程》&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;OpenAuto 的发展壮大离不开各位资料贡献者的支持。如果你符合下列任意一项：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;热心于创作课程笔记、实验报告或试卷题解等各类资料&lt;/li&gt;
+&lt;li&gt;擅长前端开发与设计&lt;/li&gt;
+&lt;li&gt;会使用 Git 和 GitHub&lt;/li&gt;
+&lt;li&gt;善于撰写文档或产出（技术向）博客文章&lt;/li&gt;
+&lt;li&gt;擅长资料组织与管理&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;我们都欢迎你向 OpenAuto 发起贡献！如果你感兴趣，可以试着阅读 &lt;a href=&#34;https://hoa.moe/blog/writing-rules/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;参与指南&lt;/a&gt;，然后发送邮件至 &lt;a href=&#34;mailto:hi@hoa.moe&#34; &gt;hi@hoa.moe&lt;/a&gt;，说明自身的情况与长处（也可以提出疑问），并留下联系方式，我们会尽快与你取得交流，并带领你熟悉整个贡献流程！&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>📮 留言板</title>
+      <link>http://localhost:9623/news/1st-anniversary/board/</link>
+      <pubDate>Mon, 28 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:9623/news/1st-anniversary/board/</guid>
+      <description>
+        
+        
+        &lt;p&gt;欢迎大家在下面的留言板中留下对 OpenAuto 的祝福或建议！&lt;/p&gt;
+&lt;p&gt;如果你没有 GitHub 账号，可以扫描下方的二维码或点击&lt;a href=&#34;https://www.wenjuan.com/s/BRVzUfN/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;链接&lt;/a&gt;填写问卷来提交你的评论！我们会每天在下方更新评论！&lt;/p&gt;
+&lt;div align=center&gt; &lt;img src=&#34;./pic/questionnaire.png&#34; alt=&#34;questionnaire&#34; style=&#34;zoom:30%;&#34;/&gt; &lt;/div&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;日期&lt;/th&gt;
+          &lt;th&gt;昵称&lt;/th&gt;
+          &lt;th&gt;留言&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>🖋 杂谈：关于分享知识</title>
+      <link>http://localhost:9623/news/1st-anniversary/maxwell/</link>
+      <pubDate>Mon, 28 Oct 2024 02:00:00 +0800</pubDate>
+      
+      <guid>http://localhost:9623/news/1st-anniversary/maxwell/</guid>
+      <description>
+        
+        
+        &lt;iframe frameborder=&#34;no&#34; border=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; width=450 height=80 src=&#34;//music.163.com/outchain/player?type=2&amp;id=500412167&amp;auto=0&amp;height=66&#34;&gt;&lt;/iframe&gt;
+&lt;p&gt;本文亦见于 &lt;a href=&#34;https://maxwelljay256.github.io/posts/sharing-knowledge/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Maxwell Jay 的个人博客&lt;/a&gt;。&lt;/p&gt;
+&lt;p&gt; &lt;sup&gt;
+    &lt;i&gt;配合音乐阅读更佳（&lt;/i&gt;
+&lt;/sup&gt; &lt;/p&gt;
+&lt;p&gt;2024 年 10 月 29 日是 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;HITSZ OpenAuto&lt;/a&gt; 的 1 岁生日。&lt;/p&gt;
+&lt;p&gt;好几天前，成员们就在讨论庆祝的事情了。
+想来想去，我们本身是基于互联网的团队，写点小文章纪念一下也是不错的选择。
+结果我最先提出这个想法，反而是最后一个交作业的 😂。&lt;/p&gt;
+&lt;p&gt;一开始有一些写作的想法，看到其他几位同学的博客后发现想出来的东西都被写过了，什么 HOA 的成长历程啊、参与开源的初衷啊、收获与致谢啊……这些都是很好的话题，但大家都写就没意思了。&lt;/p&gt;
+&lt;p&gt;那，咱来聊点不一样的？&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;HOA 网站的搭建，尤其是涉及到 HTML, CSS, JS 的部分基本上都是 &lt;a href=&#34;https://github.com/longlin10086&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@longlin li&lt;/a&gt; 和 &lt;a href=&#34;https://github.com/kowyo&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@Kowyo&lt;/a&gt; 等人在做。
+而我在 HOA 主要的工作，就是写。&lt;/p&gt;
+&lt;p&gt;写什么呢？写课程描述，写博客，还有一些组织内部文案。
+此外，由于强迫症，我重新排版了很多其他人写的文档。
+这一年，写了不少东西，也读了不少别人写的东西。&lt;/p&gt;
+&lt;h2&gt;为什么要写博客，以及分享知识时的「面向陌生人」原则&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;为什么要写博客以及分享知识时的面向陌生人原则&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e4%b8%ba%e4%bb%80%e4%b9%88%e8%a6%81%e5%86%99%e5%8d%9a%e5%ae%a2%e4%bb%a5%e5%8f%8a%e5%88%86%e4%ba%ab%e7%9f%a5%e8%af%86%e6%97%b6%e7%9a%84%e9%9d%a2%e5%90%91%e9%99%8c%e7%94%9f%e4%ba%ba%e5%8e%9f%e5%88%99&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;我相当享受用文字组织逻辑的过程（不是用文字倾泻情感，那是另一回事）。
+如果你能用文字完整地描述一个事物，那么说明你对这个事物已经有了充足的理解。
+这也是为什么很多人会用博客的方式记录自己学习的知识，包括学校里学习的课程，和课外自己搞开发时学习的技术。&lt;/p&gt;
+&lt;p&gt;比如&lt;a href=&#34;https://hoa.moe/blog/zero-force-poles/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;《平面简单桁架中零力杆的判断》&lt;/a&gt; 这篇 HOA 上的博客，是我在自学这个知识点后马上写下来的。
+即使理论力学这门课的内容我今天已经忘掉了 90%，我仍然能随口说出零力杆的 4 种判断方法。&lt;/p&gt;
+&lt;p&gt;你可能问了，这跟自己记的笔记有什么区别呢？&lt;/p&gt;
+&lt;p&gt;笔记是记给你自己看的，自己看得懂就 OK 了，所以你可能在记笔记的时候并没有多加思考，或者记得很简略。
+说不定过了一段时间，你已经看不懂自己过去的笔记了（&lt;/p&gt;
+&lt;p&gt;而写博客的时候，你应该时刻提醒自己，&lt;strong&gt;博文的读者不是你，而是对你所写的内容完全陌生的人&lt;/strong&gt;。
+这也是我在 HOA 上写文档时反复提醒自己的一点。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;一篇知识型文章的出发点应当低于你想要描述的主体内容&lt;/strong&gt;。
+例如我想描述平面简单桁架中零力杆的判断方法，我就从质点的二维静力学平衡条件出发，逐个讲述每种特殊节点的判断原理。
+这样对读者的筛选就会非常宽松，能够保证读有所得，并且你也能收获更多的阅读量。
+这也是为什么网上自称「保姆级」「零基础」的教程往往更吸引眼球。
+最重要的是，当那个读者是你自己的时候，你可以无负担地重新 get 到文章的完整内容，而不需要为了读懂它而去查找别的资料。&lt;/p&gt;
+&lt;p&gt;另一方面，你以最通俗的方式描述知识的过程，其实就是把模棱两可的东西变得清晰的过程。
+这样一来，你在回忆这个知识的时候就不存在任何思维负担了，因为你已经把它变成了一个完整的故事。&lt;/p&gt;
+&lt;p&gt;如果写博文时不遵循「面向陌生人」原则，出发点等同于甚至高于主体内容，那么在外人看来，这篇文章就是单纯的作秀，炫耀自己会别人不会的东西。
+这种博文，其实没有起到分享知识的作用。&lt;/p&gt;
+&lt;p&gt;有点难理解？回忆一下你在 B 站上逛到的那些「开源」项目，哪些让你心动复刻，哪些你看了两眼就关掉了？&lt;/p&gt;
+&lt;h2&gt;知识共享平台的更多可能性&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;知识共享平台的更多可能性&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e7%9f%a5%e8%af%86%e5%85%b1%e4%ba%ab%e5%b9%b3%e5%8f%b0%e7%9a%84%e6%9b%b4%e5%a4%9a%e5%8f%af%e8%83%bd%e6%80%a7&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;所谓的「知识分享平台」其实很多，B 站上有不少知识区 up 主，微信有海量学习公众号，GitHub 上有许多开源社区，甚至自救群也算得上。&lt;/p&gt;
+&lt;p&gt;我在这里想讨论的是 HOA 这样，面向中等规模群众（如 HITSZ 本科生）的开源社区。&lt;/p&gt;
+&lt;p&gt;开源社区与其他类型平台的区别在于，所有的内容都透明公开，不存在任何商业利益。
+对比之下，你并不知道 B 站 up 主或微信公众号的内部是如何运作的。
+它们面向的是全网多数用户，并不一定能满足某个特定用户或者群体的全部需求。&lt;/p&gt;
+&lt;p&gt;作为开源组织，我们可以深入地调查同学们的需要，然后根据反馈进行更新内容。
+更重要的是，开源平台的 Pull Request 机制允许所有人参与到平台维护和内容创作中来。
+这也是我认为最被忽视的一点。&lt;/p&gt;
+&lt;p&gt;由于我们的内容是以网站的形式呈现给大家的，而真正的仓库托管在 GitHub 上，不少同学对 HOA 的印象可能还停留在类似「微信公众号」的组织。&lt;/p&gt;
+&lt;p&gt;我们不是单向地向大家搬运信息！你所阅读到的文档、下载的资料，除了组织内部成员整理，还有无数普通学生的贡献。
+所以我看到自救群里有人质问「HOA 上某某课程怎么没有资料」时，我其实是很无语的。
+没有人有义务去上传这些资料，HOA 也只是提供了平台。&lt;/p&gt;
+&lt;p&gt;因此，开源社区的活跃非常依赖用户与核心成员的&lt;strong&gt;双向&lt;/strong&gt;互动。
+如果只有核心成员在维护仓库，用户只是单向消费内容，那么 HOA 就和微信公众号一样，随时可以停更跑路；&lt;/p&gt;
+&lt;p&gt;另一个极端就是自救群。
+自救群的优势在于门槛和发言成本很低，用户参与度可以非常高。&lt;/p&gt;
+&lt;p&gt;但是自救群有突出的问题：信息流量大，导致信息质量参差不齐，且时效性太强。&lt;/p&gt;
+&lt;p&gt;举个例子，某同学在群里为一道题提供了非常优质的解答，但是很快就被后面的消息淹没了。
+后来的学生遇到相同的问题，很难检索到这条消息。
+虽然 QQ 群有诸如「精华消息」的功能，但精华消息设置得太多，其实就没有精华了。&lt;/p&gt;
+&lt;p&gt;如果答主将解答以文件或者博客的形式上传到 HOA，就可以长期保存且不失曝光度。&lt;/p&gt;
+&lt;p&gt;HOA 作为开源社区，可以在「双向交流」和「组织度」方面，一定程度上规避微信公众号和自救群的不足。
+这也是我认为 HOA 重要的发展方向。&lt;/p&gt;
+&lt;p&gt;我希望同学们能多多参与到 HOA 的维护中来
+（其实我们已经有很多努力了，你会注意到大多数页面下方有评论区，我们也有专门的邮箱接受邮件，更别忘了你可以直接提 Pull Request！），
+这并不只是为了 HOA，你其实在这个过程中也会有非常多的收获。
+你问能收获什么？我在本文第一部分就说过啦！&lt;/p&gt;
+&lt;p&gt;总的来说，开源社区，也许是未来的知识分享平台的一种可能，会比公众号、自救群走得更远。&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;闲言碎语，不成体系，但我希望这篇文章能给你一些启发。
+最后，祝 HITSZ OpenAuto 生日快乐。我想在有生之年，看见你成为最棒的知识共享平台。&lt;/p&gt;
+&lt;hr&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;关于参与维护，如果你不知道从哪里开始，看一看你正在学习哪一学期的课程，对应文档上有没有「过期」的内容？
+如果有，这就是你贡献的大好机会！
+试着更新一下课程的基本信息，就是你在 HOA 上的一次重要贡献！&lt;/p&gt;
+
+&lt;/blockquote&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>✏ 写在 HOA 一周年之际</title>
+      <link>http://localhost:9623/news/1st-anniversary/longlin/</link>
+      <pubDate>Sun, 27 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:9623/news/1st-anniversary/longlin/</guid>
+      <description>
+        
+        
+        &lt;p&gt;本文亦见于 &lt;a href=&#34;https://blog.longlin.tech/posts/hoa-anniversary/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Longlin 的个人主页&lt;/a&gt;。&lt;/p&gt;
+&lt;h2&gt;前言&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;前言&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e5%89%8d%e8%a8%80&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;截止 &lt;code&gt;2024.10.25&lt;/code&gt; ，HOA 已达成 GitHub 195 位关注者，接待了 1.8w 位用户，产生了 22w 个 Page-View 事件。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;org.png&#34; alt=&#34;org&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;customer.png&#34; alt=&#34;customer&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;说实话，我完全没有料到 HOA 能发展到现在这种规模，毕竟组织成员们都是非计算机专业的在校生，而且只能利用课余时间进行开发。可是，就是这么一个「不专业」的团队，仅凭大家的热心与兴趣，也能通过 commit 的不断累积打造出一款在「专业」内颇受欢迎的产品，我想这便是开源的魅力吧。&lt;/p&gt;
+&lt;h2&gt;TimeLine - 我在 OpenAuto 的那些 commit&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;timeline---我在-openauto-的那些-commit&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#timeline---%e6%88%91%e5%9c%a8-openauto-%e7%9a%84%e9%82%a3%e4%ba%9b-commit&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;&lt;code&gt;2022年8月&lt;/code&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;2022年8月&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#2022%e5%b9%b48%e6%9c%88&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;我提交了&lt;a href=&#34;https://github.com/HITSZ-OpenAuto/HITSZ-OpenAuto/pull/9&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;人生第一个 PR&lt;/a&gt;，当时的我甚至连 GitHub 的操作流程都不熟悉，只是因为在群里看到有个资料共享计划的宣传，点进链接后发现仓库里有些课程缺少相关资料，便把之前从 Zlib 里下载的工图 PDF 上传了。现在看来，那个夏天，便是一切的开端呢（笑）&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;first-pr.png&#34; alt=&#34;first-pr&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;code&gt;2023年3月&lt;/code&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;2023年3月&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#2023%e5%b9%b43%e6%9c%88&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;当时学校是第一年在大一开设「自动化认识与实践」考试课，由于没有前人的资料参考，实验指导书更是靠不住，大家或多或少都踩了不少坑，结题时学生和老师间还闹出了一点&lt;a href=&#34;https://github.com/longlin10086/HITSZ_lab_project?tab=readme-ov-file#4-%E5%86%99%E5%9C%A8%E6%9C%80%E5%90%8E&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;不愉快事件&lt;/a&gt;，因此，很有必要留下一些 文字/资料 给下届学弟学妹参考。正好看到 &lt;a href=&#34;https://github.com/MaxwellJay256&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Maxwell Jay&lt;/a&gt; 在仓库更新了一些相关资料，于是便顺手补充了一些之前集中的资料（&lt;a href=&#34;https://github.com/HITSZ-OpenAuto/HITSZ-OpenAuto/pull/22&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PR&lt;/a&gt;）&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;auto-pr.png&#34; alt=&#34;auto-pr&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;code&gt;2023年6月 - 2023年9月&lt;/code&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;2023年6月---2023年9月&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#2023%e5%b9%b46%e6%9c%88---2023%e5%b9%b49%e6%9c%88&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;这段时间的 PR 主要是针对刚刚结课的大一课程补充资料与说明，完善改进了下目录结构。这期间我提了我的&lt;a href=&#34;https://github.com/HITSZ-OpenAuto/HITSZ-OpenAuto/issues/40&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;第一个 issue&lt;/a&gt;，促成了 OpenAuto 仓库由个人维护转为组织维护。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;to-org.png&#34; alt=&#34;to-org&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;code&gt;2023年10月&lt;/code&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;2023年10月&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#2023%e5%b9%b410%e6%9c%88&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;10 月 12 日，&lt;a href=&#34;https://github.com/MaxwellJay256&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Maxwell Jay&lt;/a&gt; 发布了 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/HITSZ-OpenAuto/issues/49&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;issue#49&lt;/a&gt;，面对仓库日益增大的问题，我们开始商讨如何对仓库进行拆分，&lt;a href=&#34;https://github.com/HITSZ-OpenAuto/PHYS1002&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;大物实验 IA&lt;/a&gt; 作为第一个被分离出来的仓库，如今已经获得了&lt;strong&gt;57 个 star&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;10 月 28 日，&lt;a href=&#34;https://github.com/TangLongbin&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Longbin&lt;/a&gt; 学长给所有 OpenAuto 项目的活跃开发者抄送了一封邮件：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;mail.png&#34; alt=&#34;mail&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;咱们的 OpenAuto 2.0 计划算是正式启动了！&lt;/p&gt;
+&lt;h3&gt;&lt;code&gt;2023年11月&lt;/code&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;2023年11月&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#2023%e5%b9%b411%e6%9c%88&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;计划已经启动，接下来便是技术选型和开发了。&lt;/p&gt;
+&lt;p&gt;11 月 6 日，在 &lt;a href=&#34;https://github.com/TangLongbin&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Longbin&lt;/a&gt; 学长搭建的 Jekyll 网站基础上，&lt;a href=&#34;https://github.com/kowyo&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mither&lt;/a&gt; 用更现代的 Hugo 框架重新构建了一版前端，同时采用了一直用到现在的 &lt;a href=&#34;https://imfing.github.io/hextra/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hextra&lt;/a&gt; 主题。我在当天贡献了新项目的第一个 commit：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;first-commit.png&#34; alt=&#34;first-commit&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;至此，我们项目的整体流程已经明晰————抓取各仓库的 markdown 文档后再使用 Hugo 在前端进行页面渲染。&lt;/p&gt;
+&lt;p&gt;11 月 7 日 -9 日，我在原 action 基础上进行了修改，实现了自动抓取组织下所有匹配的课程仓库的脚本，同时借助 tag.txt 对课程文档进行分类。（&lt;a href=&#34;https://github.com/HITSZ-OpenAuto/hoa-moe/pull/3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PR&lt;/a&gt;）&lt;/p&gt;
+&lt;p&gt;主要功能实现后，剩下的便是搬运仓库和一些 CSS 上修修补补的工作了。当时还尝试了一些有意思的动画，不过由于不太合适所以最终还是被 discard。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;prs-in-nov.png&#34; alt=&#34;prs-in-nov&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;整个 11 月我们的 QQ WorkGroup 可谓热火朝天，几乎每天都有人贡献新 feature，网站的迭代速度非常快。&lt;/p&gt;
+&lt;h3&gt;&lt;code&gt;2023年12月&lt;/code&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;2023年12月&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#2023%e5%b9%b412%e6%9c%88&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;12 月 1 日，整个新项目基本成型。同天，正式告别老仓库（&lt;a href=&#34;https://github.com/HITSZ-OpenAuto/HITSZ-OpenAuto/pull/54&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PR#54&lt;/a&gt;）&lt;/p&gt;
+&lt;p&gt;12 月 2 日，OpenAuto 2.0 正式官宣🎉&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;openauto2.png&#34; alt=&#34;openauto2&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;发布当天，我们的 fo 数就涨到了 50 人，也有热心同学对我们进行了打赏赞助。&lt;/p&gt;
+&lt;p&gt;2023 年剩下的时间，我们主要为网站新增了 博客 与 友链 界面，自此，OpenAuto 的功能在资料下载基础上又向外拓展了不少。我也在此时写了一篇&lt;a href=&#34;https://hoa.moe/blog/writing-rules/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;贡献帮助文档&lt;/a&gt;（&lt;a href=&#34;https://hoa.moe/blog/writing-rules/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PR&lt;/a&gt;），这份贡献指南后面还经过了几次改版，不过都是后话了。&lt;/p&gt;
+&lt;h3&gt;&lt;code&gt;2024年&lt;/code&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;2024年&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#2024%e5%b9%b4&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;除了一些日常维护工作，我们也在思考如何改进我们的网站————新文档、新博客、VTuber logo、License 展示、AI 新闻周报、RSS 订阅……&lt;/p&gt;
+&lt;p&gt;相信 HOA 会越做越好！（我们可能会倒闭，但绝不会变质&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;hoa.png&#34; alt=&#34;hoa&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;h2&gt;尾记&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;尾记&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e5%b0%be%e8%ae%b0&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;不知不觉，新版 HOA 也迎来了一周岁生日，我也陪这个新生开源项目走过了第一年。从草创时期到稳定维护时期，我实实在在体会到了开源的乐趣，很幸运我能在刚接触开源什么都不懂的时候遇见它，更幸运的是，我通过开源遇见了一群志同道合的伙伴，请容许我用最朴素的文字对你们表示衷心的感谢！&lt;/p&gt;
+&lt;p&gt;最后的最后：
+&lt;strong&gt;OpenAuto，生日快乐。&lt;/strong&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>🖊 OpenAuto 一周年生日纪</title>
+      <link>http://localhost:9623/news/1st-anniversary/oliverwu/</link>
+      <pubDate>Sun, 27 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:9623/news/1st-anniversary/oliverwu/</guid>
+      <description>
+        
+        
+        &lt;p&gt;本文亦见于 &lt;a href=&#34;https://oliverwu.top/HOA-1st-anniversary&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Oliver Wu 的个人博客&lt;/a&gt;。&lt;/p&gt;
+&lt;h2&gt;缘起&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;缘起&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e7%bc%98%e8%b5%b7&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;我一直对资料共享有着浓厚的兴趣，一直是自救群（一个供学生交流学习相关问题、分享学习资料的 QQ 群）活跃的资料贡献者和管理者。&lt;/p&gt;
+&lt;p&gt;2023 年 3 月，机缘巧合之下，我接触了 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;HITSZ OpenAuto&lt;/a&gt; 项目，当时这个项目还是一个单独且硕大的仓库，课程资料按照学期组织。我对自己参与制作的「暑期电路补习」资料颇为满意，怀着让更多同学从这份资料受益的心愿，我便将其上传至「大一下/电路」的文件夹了。当时还不懂 Git 为何物，只知道从网页端笨拙地十个十个文件上传，因此平添了若干 dirty commits。现在想来，当时的自己多么稚嫩。&lt;/p&gt;
+&lt;h2&gt;从单人到团队&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;从单人到团队&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e4%bb%8e%e5%8d%95%e4%ba%ba%e5%88%b0%e5%9b%a2%e9%98%9f&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;继上面的贡献之后，我又在电路 IA 课程文档中留下了些许学习建议，此后便没再过多关注。10 月份，我偶然地收到 Longbin 学长的一封邮件，邮件中说，OpenAuto 已从一个大仓库转为组织方式维护，邀请我成为维护团队的一员，我很高兴地接受了邀请。&lt;/p&gt;
+&lt;p&gt;随后我们进行了多次讨论。我们感受到，QQ 群文件多易受年级区隔，且文件夹支持不便，用 GitHub 仓库方式维护能够方便管理提交记录，且方便代际资料的组织。不过要将原有项目推向更大的用户群，且吸纳更多的维护者，难点有二：&lt;/p&gt;
+&lt;p&gt;一是针对使用者而言的。成功连接 GitHub 对于使用者而言有一定要求，因此为了降低使用门槛，急需直白清晰的前端页面，且要能在国内顺畅地访问到。于是几位前端开发者共同努力，选用 &lt;a href=&#34;https://gohugo.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo&lt;/a&gt; 作为引擎、&lt;a href=&#34;https://github.com/imfing/hextra&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hextra&lt;/a&gt; 作为主题，打造了现在按学期组织、学期内以课程类别排序的呈现效果，还购买了现在这个短小可爱的域名。&lt;/p&gt;
+&lt;p&gt;二是针对维护者而言的。原仓库规模太大，整体拉取耗时长、占空间；而且之前仓库文件结构较为混乱，不方便维护。因此我们定下了按照课程分别建立子仓库、且规范文件夹与资料命名的目标。于是几位同学齐心协力，花了一个月把各门课程资料分别迁移出来。我主要负责了这份工作。&lt;/p&gt;
+&lt;p&gt;前端页面需要依赖各仓库的信息来生成，所以我们在各页面下建立了 tag，通过该文件来识别课程类型与名称，再根据文件夹和文档内容生成页面。当时，为了实现心目中的课程资料目录架构，并不擅长前端编写的我自告奋勇地接手了这项任务，虽然结果还不错，但是过程嘛……（捂脸）&lt;/p&gt;
+&lt;div align=center&gt; &lt;img src=&#34;./pic/dirty%20commits.png&#34; alt=&#34;dirty commits&#34; style=&#34;zoom:60%;&#34;/&gt; &lt;/div&gt;
+&lt;p&gt;上面工作的完成，宣告着 OpenAuto 2.0 的正式成型。12 月初，我们在自救群和空间发布了海报，得到了同学们热切的回应。&lt;/p&gt;
+&lt;h2&gt;日常维护&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;日常维护&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e6%97%a5%e5%b8%b8%e7%bb%b4%e6%8a%a4&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;在项目正式发布之后，很少再有项目伊始那种大刀阔斧的增删，取而代之的是琐碎的维护和更新。每天，我辗转于各个仓库之间，创建 commit、审核与合并各种各样的 pr。虽然比较繁琐，但我看着资料越来越丰富、文档越来越完善，成就感难以言表。我过去一年的 commit 中，至少有 90% 是在 OpenAuto 中提交的。&lt;/p&gt;
+&lt;div align=center&gt; &lt;img src=&#34;./pic/commits.png&#34; alt=&#34;commits&#34; style=&#34;zoom:60%;text-align: center;&#34; /&gt; &lt;/div&gt;
+&lt;p&gt;虽说总体框架不再有变动，核心维护团队成员总能以各种各样的新点子予我惊喜。比如，全新的 VTuber Logo 和周边贴纸；越来越丰富且友好的参与指南和 commit message 提示；利用 Hextra 短代码生成的文件下载界面和信息提示框；利用 GPT 生成的 AI 周报总结；随着仓库内容更新而自动触发的课程页面更新…… 在这样一个活跃的团队中工作，我也充满激情。&lt;/p&gt;
+&lt;p&gt;核心维护者外的贡献者们也带来了一篇篇优质的博客、一份份用心撰写的学习建议和课程资料，不断为这个项目注入新的活力。&lt;/p&gt;
+&lt;h2&gt;致谢与展望&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;致谢与展望&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e8%87%b4%e8%b0%a2%e4%b8%8e%e5%b1%95%e6%9c%9b&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;感谢主攻网页前端开发的维护者们（以及网站框架与主题的作者），清晰简约的界面离不开你们的努力；你们还使得贡献者得以专注于资料的更新，维护者得以最大限度发挥在资料管理方面的热情和能力。&lt;/p&gt;
+&lt;p&gt;感谢所有和我一起负责资料管理的维护者们，你们高效率的审核与回复是资料及时更新的基础，让我感受到「事事有着落」的安全感。&lt;/p&gt;
+&lt;p&gt;感谢 OSA 提供的网盘基础设施支持，感谢校内类似项目维护者提供的宝贵经验。&lt;/p&gt;
+&lt;p&gt;感谢所有资料、文档贡献者，你们的支持与贡献让我们感受到，在知识共享、减少弯路的途中，我们并不孤寂。&lt;/p&gt;
+&lt;p&gt;还要感谢向我们提出意见和建议以及打赏我们的同学。&lt;/p&gt;
+&lt;p&gt;在这一年里，OpenAuto 日渐成熟。然而，仍有不少问题值得我们进一步探索，例如资料的利用态度问题、维护的可持续性问题、网站的呈现方式问题等。也希望大家多提意见和建议、多多贡献资料。&lt;/p&gt;
+&lt;p&gt;最后，&lt;strong&gt;OpenAuto，生日快乐。&lt;/strong&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>🖌 开源的心情：杂志、画画与创业公司</title>
+      <link>http://localhost:9623/news/1st-anniversary/kowyo/</link>
+      <pubDate>Sun, 27 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:9623/news/1st-anniversary/kowyo/</guid>
+      <description>
+        
+        
+        &lt;p&gt;本文亦见于 &lt;a href=&#34;https://kowyo.com/post/openauto-and-opensource/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kowyo 的个人主页&lt;/a&gt;。&lt;/p&gt;
+&lt;h2&gt;缘起&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;缘起&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e7%bc%98%e8%b5%b7&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;23 年底，因为曾经参与过贡献，收到了学校开源项目「OpenAuto」的邀请参与「OpenAuto」网站的搭建，这个项目平时使用 GitHub 仓库分享学长学姐流传的学习资料，有效解决了自救群资料代际交接比较麻烦的问题，因此我觉得是一个很有意义的项目。尽管自己没有创作学习资料的动力，但了解到了这个项目现在需要创建一个网站，而这又恰好是我所擅长的范围，因此我就选择加入了。&lt;/p&gt;
+&lt;p&gt;关于动机的参考，浙大、北大乃至本校另外一个专业的项目都使用了同样一套模版，我觉得是一件很懒惰的事情。清华同类项目的作者在自己的博客中有一句话却说的很好：&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;div class=&#34;hextra-code-block hx-relative hx-mt-6 first:hx-mt-0 hx-group/code&#34;&gt;
+
+&lt;div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-text&#34; data-lang=&#34;text&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;但是我其实平时挺爱搞事情的，也想以另类的方式来获取影响力从而帮助他人。
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;比如我在大三下学期创立了一个 GitHub 仓库叫 thu-cst-cracker，里面收集了
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;各种我用过的学习资料。我想改变目前大学学习以信息战为主的方式，让大家公平
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;竞争，于是无偿分享给需要使用的人，目前已经有一万三千 star，当时也被报道
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;了一波，也确实帮助到了不少学弟学妹们；&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&#34;hextra-code-copy-btn-container hx-opacity-0 hx-transition group-hover/code:hx-opacity-100 hx-flex hx-gap-1 hx-absolute hx-m-[11px] hx-right-0 hx-top-0&#34;&gt;
+  &lt;button
+    class=&#34;hextra-code-copy-btn hx-group/copybtn hx-transition-all active:hx-opacity-50 hx-bg-primary-700/5 hx-border hx-border-black/5 hx-text-gray-600 hover:hx-text-gray-900 hx-rounded-md hx-p-1.5 dark:hx-bg-primary-300/10 dark:hx-border-white/10 dark:hx-text-gray-400 dark:hover:hx-text-gray-50&#34;
+    title=&#34;Copy code&#34;
+  &gt;
+    &lt;div class=&#34;copy-icon group-[.copied]/copybtn:hx-hidden hx-pointer-events-none hx-h-4 hx-w-4&#34;&gt;&lt;/div&gt;
+    &lt;div class=&#34;success-icon hx-hidden group-[.copied]/copybtn:hx-block hx-pointer-events-none hx-h-4 hx-w-4&#34;&gt;&lt;/div&gt;
+  &lt;/button&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/blockquote&gt;
+&lt;p&gt;认同这是一件有意义的事情，并且自己有所能力贡献，是我加入这个开源项目的初心。&lt;/p&gt;
+&lt;h2&gt;杂志的好奇心&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;杂志的好奇心&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e6%9d%82%e5%bf%97%e7%9a%84%e5%a5%bd%e5%a5%87%e5%bf%83&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;我中学的时候喜欢看报纸和杂志，因为那时候觉得这些读物可以摆脱枯燥的学习，同时可以不用像阅读名著那样字字斟酌。&lt;/p&gt;
+&lt;p&gt;23 年初，我因为看到朋友搭建的博客而有了动力，学着搭建网站并写下了第一篇博客：&lt;a href=&#34;https://kowyo.com/post/my-first-post/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;「通过 Hugo+GitHub Pages 搭建你的第一个博客」&lt;/a&gt;。当时想着将这个博客作为我的「网志（网路杂志）」，在上面发表各种内容（周报，论文笔记，教程）。写作的模版来自于其他优秀的博客。尽管影响力甚微，我还是收获不少，在搭建和写作过程中接触到了不少开源社区的知识和新鲜资讯。&lt;/p&gt;
+&lt;p&gt;自己最初参与 OpenAuto 项目的维护，多少也是出于希望办一本更有影响力的杂志的想法。&lt;/p&gt;
+&lt;h2&gt;画画的闲心&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;画画的闲心&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e7%94%bb%e7%94%bb%e7%9a%84%e9%97%b2%e5%bf%83&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;这个网站如果只是要实现基础的功能，其实我们最初一个月就已经实现了基础功能，但是就像要杂志需要有装饰的插图一样，我和几位维护者虽都是前端小白，但是也做了一些 UI（用户界面）上的改进：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;移植原主题的 shortcode 让文件的下载链接显得像目录树一样（by me)&lt;/li&gt;
+&lt;li&gt;半年前来自开源社区的 VTuber 风格的 VSCode 标志火爆了全网，我联系到了开源社区运营类似项目的画画家 &lt;a href=&#34;https://github.com/PetricaT&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Petrica&lt;/a&gt; 帮助我们设计了 Logo，Petrica 很快地回应了我并为我们制作。我至今想起来都觉得感激不已。Longlin（我们的一位维护者）为我们把这个 Logo 移植到了网站。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;对我来说，敲敲打打键盘，至今都还是不懂 html，css 和 js 这「前端三件套」的系统知识，但总之就是把代码改了一下之后风格变好看了，就算是辛苦自己在前端上做了努力。我对我使用的产品还有一个很重要的审美原则，就是尽量不改变原貌（使用原生组件，不使用美化插件），并且尽量参考一些非常有设计/知名的网站：例如苹果，或者一些已经很成熟的文档样式进行设计。&lt;/p&gt;
+&lt;p&gt;这是一件非常需要闲心的事情，你现在在网站上看到很多不起眼的小细节，背后都有维护者在不少的夜晚的 CI 等待中受折磨。&lt;/p&gt;
+&lt;h2&gt;创业公司的操心&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;创业公司的操心&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e5%88%9b%e4%b8%9a%e5%85%ac%e5%8f%b8%e7%9a%84%e6%93%8d%e5%bf%83&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;我们的网站实现了自动抓取组织仓库下的文档并渲染到网站，根据每个仓库下的课程资料生成 CDN 分配的下载链接，由于需求奇葩，同类项目大多没有转型，我们的项目自动化部署方案应该是全网唯一的，虽然理解之后并不复杂，但总归做了一件对于建站小白来说值得骄傲的事情。我们在技术方案的选型和实现上，由于无可借鉴，也算是操过技术型创业公司的心了。&lt;/p&gt;
+&lt;p&gt;项目技术稳定之后，我又操起了用户群体的心，一本杂志的排版很好，但是吸引用户的核心关键还是内容。如果一直都是我们原始团队成员写文章/贡献资料的话，杂志的内容就自然就会乏善可陈，并且我们毕业之后，还有随时断代的风险。&lt;/p&gt;
+&lt;p&gt;由于我们项目是资料分享的性质，「&lt;strong&gt;开源&lt;/strong&gt;」自然就成为了项目很好的属性。通过开源，我们允许任何人贡献资料，编辑文档，也允许任何人看到我们一点一滴的改变。但是，可能是因为网站结构比较新颖的原因，加之很多自动化的同学都是代码小白，我们没有能收到期待中的“参与”（我会尽量用“参与”这个词代替“贡献”，灵感来源于台湾同类项目&lt;a href=&#34;https://shaform.com/csdream/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;「資夢」&lt;/a&gt;，开源项目是任何人都可以参与的，很平常的一件事，用「贡献」这个词担心会让有一些同学有心理负担）。&lt;/p&gt;
+&lt;p&gt;我们从以下三个方面作出了努力来让我们的项目活的更久：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;宣传&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;我们做出了以下几点的努力：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;转发海报到各大相关群聊。&lt;/li&gt;
+&lt;li&gt;Maxwell（我们的一位维护者）在淘宝制定了贴纸在线下派发。&lt;/li&gt;
+&lt;li&gt;在群聊讨论到相关话题时，会援引项目中的链接（例如 git 怎么用，学生邮箱羊毛怎么薅，xx 资料怎么找）。&lt;/li&gt;
+&lt;li&gt;邀请各个领域的同学加入博客创作，资料分享，加入核心团队。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;文档&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;作为技术型产品，详尽的文档可以让用户更快上手熟悉，因此我们制定了以下文档：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://hoa.moe/blog/writing-rules/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;「参与指南」&lt;/a&gt;：内容公约，格式公约和操作指引。&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://hoa.moe/blog/access-github/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;「新人指南：不使用第三方工具访问 GitHub」&lt;/a&gt;：无法顺利连接 GitHub 是很多同学遇到的痛点问题。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;捐赠&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;这是最现实的也是最开始想到的，因为域名并不便宜（13 美刀/年）。考虑到大学生经济情况和项目性质，我们希望每个用户可以带来 2 元的捐赠，以保证项目的社区性质。尽管后来事实证明这个途径获得的捐赠来源有限，我们还是要对曾经和将来捐赠的金主爸爸妈妈表示感谢，我们的捐赠者名单在 &lt;a href=&#34;https://hoa.moe/sponsor/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;这个页面&lt;/a&gt; 中，虽然是个人赞赏码，但是捐赠者和捐赠的金额在维护者内部公开，以确保透明性。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;我在运营开源社区的时候，很大程度上受到 GitHub 一篇博客的启发：&lt;a href=&#34;https://opensource.guide/building-community/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Building Welcoming Communities&lt;/a&gt;。&lt;/p&gt;
+&lt;p&gt;在上述的努力下，我们让 OpenAuto 在第一年成功的活了下来，并且超越了很多我们原来设想的目标。我们对社区/普通用户的肯定表示感谢。&lt;/p&gt;
+&lt;h2&gt;写在最后：对开源事情本身的一点随心&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;写在最后对开源事情本身的一点随心&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e5%86%99%e5%9c%a8%e6%9c%80%e5%90%8e%e5%af%b9%e5%bc%80%e6%ba%90%e4%ba%8b%e6%83%85%e6%9c%ac%e8%ba%ab%e7%9a%84%e4%b8%80%e7%82%b9%e9%9a%8f%e5%bf%83&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;2023 年年底，Clash（一款网络代理工具）相关的许多开源项目遭到删库，这在开源界引起了巨大的讨论和争议，这其中诞生了一篇很触动我的文章：&lt;a href=&#34;https://www.eaimty.com/2023/opensource-project-based-on-hormone/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;「基于荷尔蒙开发的开源项目」&lt;/a&gt;。文章中针砭了很多开源圈子的时弊：&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;究其根本，一个没有商业化的开源项目，本质上就是开发者的技术热情。换句话讲，这样的开源项目就是其开发者荷尔蒙在成果上的体现。&lt;/p&gt;
+
+&lt;/blockquote&gt;
+&lt;p&gt;也许我和几位目前的核心开发者也终有一天会因为忙碌的生活而褪去荷尔蒙。到那时候，如果没有新的核心维护者，没有人审核 PR 的时候，也许这个项目就真的「死亡」了。&lt;/p&gt;
+&lt;p&gt;所幸，这个项目在现在还很活跃，在过去的一年里达到了我们从所未遇见的影响力，你可以从 longlin 的&lt;a href=&#34;https://blog.longlin.tech/posts/hoa-anniversary/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;「写在 HOA 一周年之际」&lt;/a&gt; 开头了解更多。&lt;/p&gt;
+&lt;p&gt;同时，感谢 Oliver 和其他所有维护者，他们贡献了大部分的资料和文档。Oliver 在 &lt;a href=&#34;https://oliverwu.top/HOA-1st-anniversary.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;「OpenAuto 一周年生日纪」&lt;/a&gt; 中分享了资料维护的体验。&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>AUTO 周报 2024-10-18 - 2024-10-25</title>
+      <link>http://localhost:9623/news/weekly/weekly-2024-10-18/weekly-2024-10-18/</link>
+      <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:9623/news/weekly/weekly-2024-10-18/weekly-2024-10-18/</guid>
+      <description>
+        
+        
+        &lt;h2&gt;✨AI 摘要&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;ai-摘要&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#ai-%e6%91%98%e8%a6%81&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h4&gt;本周提交报告总结&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;本周提交报告总结&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e6%9c%ac%e5%91%a8%e6%8f%90%e4%ba%a4%e6%8a%a5%e5%91%8a%e6%80%bb%e7%bb%93&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;&lt;strong&gt;周五（10 月 25 日）&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;完成了多个修复和特性更新，包括匹配模式的更改、废弃用法的修复、徽章样式的改进等。&lt;/li&gt;
+&lt;li&gt;提升了 hextra 版本，以支持新功能。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;周四（10 月 24 日）&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;修改了文档更新信息的格式。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;周三（10 月 23 日）&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;新增了大学物理实验的初始提交及相关开题模板。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;周二（10 月 22 日）&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;增加了毕业设计的开题报告模板和补充信息。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;周一（10 月 21 日）&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;执行了对多个项目中触发工作流配置文件的更换，将原有的 hoa.moe 替换为 hoa-moe。&lt;/li&gt;
+&lt;li&gt;更新了多个项目的文档链接。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;本周总体上，团队在修复 bug、优化功能和更新文档等方面做了大量工作，提升了项目的稳定性和可用性。&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>AUTO 周报 2024-10-11 - 2024-10-18</title>
+      <link>http://localhost:9623/news/weekly/weekly-2024-10-11/weekly-2024-10-11/</link>
+      <pubDate>Fri, 18 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:9623/news/weekly/weekly-2024-10-11/weekly-2024-10-11/</guid>
+      <description>
+        
+        
+        &lt;h2&gt;✨AI 摘要&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;ai-摘要&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#ai-%e6%91%98%e8%a6%81&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h4&gt;每周提交报告摘要&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;每周提交报告摘要&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e6%af%8f%e5%91%a8%e6%8f%90%e4%ba%a4%e6%8a%a5%e5%91%8a%e6%91%98%e8%a6%81&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;在本周的提交中，涉及到自动控制实践 A 项目的两个更新：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;周一（10.14）&lt;/strong&gt;：Maxwell Jay 对 README 进行了格式排版，并添加了参考书链接，提交编号为#14。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;周四（10.17）&lt;/strong&gt;：吴俊达修复了 README.md 中的一些拼写错误，提交编号为#15。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>AUTO 周报 2024-10-04 - 2024-10-11</title>
+      <link>http://localhost:9623/news/weekly/weekly-2024-10-04/weekly-2024-10-04/</link>
+      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:9623/news/weekly/weekly-2024-10-04/weekly-2024-10-04/</guid>
+      <description>
+        
+        
+        &lt;h2&gt;✨AI 摘要&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;ai-摘要&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#ai-%e6%91%98%e8%a6%81&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h4&gt;每周提交报告总结&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;每周提交报告总结&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e6%af%8f%e5%91%a8%e6%8f%90%e4%ba%a4%e6%8a%a5%e5%91%8a%e6%80%bb%e7%bb%93&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;本周（10 月 6 日至 10 月 11 日）共有多项重要更新和提交：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;周五（10.11）&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;hoa-moe&lt;/strong&gt; 更新了课程 yaml 文件，新增了“GeneralKnowledge”课程。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;自动控制理论 B&lt;/strong&gt; 增加了一份模拟试题和笔记的新版本。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;周四（10.10）&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;课程评价&lt;/strong&gt; 更新了 tag.txt 文件。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;.github&lt;/strong&gt; 更新了 README.md 文件，为 GitHub Actions 做了调整。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;课程评价&lt;/strong&gt; 更新了 README.md 文件，初始化了课程信息及内容模板。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;周三（10.9）&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;课程评价&lt;/strong&gt; 进行了初始提交。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;周日（10.6）&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;大学物理实验&lt;/strong&gt; 不再对某学期的实验进行强调，新增了一些实验的概览和操作细节。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;总体来看，本周的提交主要集中在课程更新和文档完善方面，为后续的教学和学习提供了更好的支持。&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>AUTO 周报 2024-09-20 - 2024-09-27</title>
+      <link>http://localhost:9623/news/weekly/weekly-2024-09-20/weekly-2024-09-20/</link>
+      <pubDate>Fri, 27 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:9623/news/weekly/weekly-2024-09-20/weekly-2024-09-20/</guid>
+      <description>
+        
+        
+        &lt;h2&gt;✨AI 摘要&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;ai-摘要&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#ai-%e6%91%98%e8%a6%81&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h4&gt;每周提交报告总结&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;每周提交报告总结&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e6%af%8f%e5%91%a8%e6%8f%90%e4%ba%a4%e6%8a%a5%e5%91%8a%e6%80%bb%e7%bb%93&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;&lt;strong&gt;周三（9.25）&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/HITSZ-OpenAuto/hoa-moe&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;hoa-moe&lt;/a&gt;：Maxwell Jay 重新排版了博客《不转码的普通自动化学生能拿多少钱》。&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/HITSZ-OpenAuto/PHYS1002&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;大学物理实验&lt;/a&gt;：ChihayaAnon987 更新了小球直径的测量方法。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;周二（9.24）&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/HITSZ-OpenAuto/AUTO3016&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;自动控制实践 A 实验&lt;/a&gt;：Hye 修复了 README.md 中的一个无法访问的链接。&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/HITSZ-OpenAuto/AUTO2006&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;控制理论中的代数基础&lt;/a&gt;：Hye 修复了 README.md 中的多个无法访问的链接。&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/HITSZ-OpenAuto/PHYS1002&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;大学物理实验&lt;/a&gt;：MeYoKona 更新了测量小球直径的方法。&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/HITSZ-OpenAuto/AUTO2006&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;控制理论中的代数基础&lt;/a&gt;：吴俊达对电子书进行了清理。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;周一（9.23）&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/HITSZ-OpenAuto/hoa-moe&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;hoa-moe&lt;/a&gt;：吴俊达删除了两篇过时文档。&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/HITSZ-OpenAuto/AUTO3016&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;自动控制实践 A 实验&lt;/a&gt;：吴俊达更新了课程名称和相关文档。&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/HITSZ-OpenAuto/AUTO2006&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;控制理论中的代数基础&lt;/a&gt;：吴俊达更新了 README 和 tag。&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/HITSZ-OpenAuto/AUTO1001&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;自动化认知与实践&lt;/a&gt;：吴俊达更新了工程制图基础习题册的答案。&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/HITSZ-OpenAuto/MOOC&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MOOC&lt;/a&gt;：oldkingOK 添加了《劳动教育概论》MOOC 章节测试的答案。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;周六（9.21）&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/HITSZ-OpenAuto/hoa-moe&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;hoa-moe&lt;/a&gt;：github-actions[bot]提交了新的每周报告。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;此次周报涵盖多个项目的更新，包括文档的修正、方法的更新和课程信息的调整，显示出团队在维护与改进资源方面的积极努力。&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>AUTO 周报 2024-09-13 - 2024-09-20</title>
+      <link>http://localhost:9623/news/weekly/weekly-2024-09-13/weekly-2024-09-13/</link>
+      <pubDate>Fri, 20 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:9623/news/weekly/weekly-2024-09-13/weekly-2024-09-13/</guid>
+      <description>
+        
+        
+        &lt;h2&gt;✨AI 摘要&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;ai-摘要&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#ai-%e6%91%98%e8%a6%81&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h4&gt;每周提交报告总结&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;每周提交报告总结&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e6%af%8f%e5%91%a8%e6%8f%90%e4%ba%a4%e6%8a%a5%e5%91%8a%e6%80%bb%e7%bb%93&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;在过去的一周内，共有几项重要的代码提交：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;周一（9.16）&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;更新了&lt;a href=&#34;https://github.com/HITSZ-OpenAuto/hoa-moe&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;hoa-moe&lt;/a&gt;项目，包含由 Kowyo 添加的缺失赞助商名单和更新的赞助商名单。同时，github-actions 机器人生成了新的每周报告，供大家参考。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;周三（9.18）&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/HITSZ-OpenAuto/AUTO3001B&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;自动控制理论 B&lt;/a&gt;项目的吴俊达更新了 2024 年的自动控制理论期末试题。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;以上是本周的主要提交内容。&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>AUTO 周报 2024-09-06 - 2024-09-13</title>
+      <link>http://localhost:9623/news/weekly/weekly-2024-09-06/weekly-2024-09-06/</link>
+      <pubDate>Fri, 13 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:9623/news/weekly/weekly-2024-09-06/weekly-2024-09-06/</guid>
+      <description>
+        
+        
+        &lt;h2&gt;✨AI 摘要&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;ai-摘要&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#ai-%e6%91%98%e8%a6%81&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h4&gt;每周提交报告总结&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;每周提交报告总结&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e6%af%8f%e5%91%a8%e6%8f%90%e4%ba%a4%e6%8a%a5%e5%91%8a%e6%80%bb%e7%bb%93&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;&lt;strong&gt;周五（9.13）&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;在&lt;a href=&#34;https://github.com/HITSZ-OpenAuto/PHYS1002&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;大学物理实验&lt;/a&gt;项目中，IcyDesert 更新了关于双光栅检测微弱振动的 README.md 文件，并补充了电桥实验的注意事项。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;周三（9.11）&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;MaxwellJay256 为&lt;a href=&#34;https://github.com/HITSZ-OpenAuto/PHYS1002&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;大学物理实验&lt;/a&gt;中各实验文件夹添加了 README.md 文件，仅添加了标题，内容尚未完成。&lt;/li&gt;
+&lt;li&gt;在&lt;a href=&#34;https://github.com/HITSZ-OpenAuto/MATH1004&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;概率论与数理统计&lt;/a&gt;项目中，MaxwellJay256 上传了 2023 年概率论的回忆试题。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;周一（9.9）&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;在&lt;a href=&#34;https://github.com/HITSZ-OpenAuto/hoa-moe&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;hoa-moe&lt;/a&gt;项目中，github-actions[bot] 提交了新周报的文档更新 (#151)。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;本周主要集中于大学物理实验和概率论与数理统计的资料更新和整理。&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>AUTO 周报 2024-08-30 - 2024-09-06</title>
+      <link>http://localhost:9623/news/weekly/weekly-2024-08-30/weekly-2024-08-30/</link>
+      <pubDate>Fri, 06 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:9623/news/weekly/weekly-2024-08-30/weekly-2024-08-30/</guid>
+      <description>
+        
+        
+        &lt;h2&gt;✨AI 摘要&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;ai-摘要&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#ai-%e6%91%98%e8%a6%81&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h4&gt;周四（9.5）提交报告摘要&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;周四95提交报告摘要&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e5%91%a8%e5%9b%9b95%e6%8f%90%e4%ba%a4%e6%8a%a5%e5%91%8a%e6%91%98%e8%a6%81&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;（14:57）在&lt;a href=&#34;https://github.com/HITSZ-OpenAuto/EE1011B&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;电路 IB&lt;/a&gt;项目中，用户 (psp_dada) 添加了笔记 (#7)。&lt;/li&gt;
+&lt;li&gt;（14:55）在&lt;a href=&#34;https://github.com/HITSZ-OpenAuto/EE1011A&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;电路 IA&lt;/a&gt;项目中，用户 (psp_dada) 添加了笔记并更新了 README 文件 (#3)。&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>AUTO 周报 2024-08-09 - 2024-08-16</title>
+      <link>http://localhost:9623/news/weekly/weekly-2024-08-09/weekly-2024-08-09/</link>
+      <pubDate>Fri, 16 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:9623/news/weekly/weekly-2024-08-09/weekly-2024-08-09/</guid>
+      <description>
+        
+        
+        &lt;h2&gt;✨AI 摘要&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;ai-摘要&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#ai-%e6%91%98%e8%a6%81&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h4&gt;每周提交报告总结&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;每周提交报告总结&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e6%af%8f%e5%91%a8%e6%8f%90%e4%ba%a4%e6%8a%a5%e5%91%8a%e6%80%bb%e7%bb%93&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;在本周的提交中，有两项更新：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;周一（8 月 12 日）&lt;/strong&gt;：Kowyo 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/hoa-moe&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;hoa-moe&lt;/a&gt; 中进行了功能更新，主要是保留 AI 摘要，移除了其他文本。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;周二（8 月 13 日）&lt;/strong&gt;：Kowyo 更新了 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/hoa-moe&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;hoa-moe&lt;/a&gt; 的贡献者列表。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>AUTO 周报 2024-08-02 - 2024-08-09</title>
+      <link>http://localhost:9623/news/weekly/weekly-2024-08-02/weekly-2024-08-02/</link>
+      <pubDate>Fri, 09 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:9623/news/weekly/weekly-2024-08-02/weekly-2024-08-02/</guid>
+      <description>
+        
+        
+        &lt;h2&gt;✨AI 摘要&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;ai-摘要&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#ai-%e6%91%98%e8%a6%81&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;每周提交报告总结&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;每周提交报告总结&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e6%af%8f%e5%91%a8%e6%8f%90%e4%ba%a4%e6%8a%a5%e5%91%8a%e6%80%bb%e7%bb%93&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;本周提交活动如下：&lt;/p&gt;
+&lt;h4&gt;周二（8.6）&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;周二86&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e5%91%a8%e4%ba%8c86&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;在 10:12，Maxwell Jay 提交了更新，新增了一种查询 IP 地址的方法，相关内容见 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/hoa-moe/pull/145&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;#145&lt;/a&gt;。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;周六（8.3）&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;周六83&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e5%91%a8%e5%85%ad83&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;在 13:00，Kowyo 更新了 README.md 文件。&lt;/li&gt;
+&lt;li&gt;在 10:17，github-actions 机器人发布了周报，相关内容见 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/hoa-moe/pull/143&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;#143&lt;/a&gt;。&lt;/li&gt;
+&lt;li&gt;在 10:12，Kowyo 修复了最新博客文章中添加新行的问题。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;本周整体提交较为活跃，主要集中在功能更新和文档维护上。&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>AUTO 周报 2024-07-26 - 2024-08-02</title>
+      <link>http://localhost:9623/news/weekly/weekly-2024-07-26/weekly-2024-07-26/</link>
+      <pubDate>Fri, 02 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:9623/news/weekly/weekly-2024-07-26/weekly-2024-07-26/</guid>
+      <description>
+        
+        
+        &lt;h2&gt;✨AI 摘要&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;ai-摘要&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#ai-%e6%91%98%e8%a6%81&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h4&gt;每周提交报告总结&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;每周提交报告总结&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e6%af%8f%e5%91%a8%e6%8f%90%e4%ba%a4%e6%8a%a5%e5%91%8a%e6%80%bb%e7%bb%93&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;本周的提交活动如下：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;周一（7.29）&lt;/strong&gt;：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;longlin li 对 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/WRIT0001&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;写作与沟通&lt;/a&gt; 项目的 README 进行了多次更新，并进行了初始提交。&lt;/li&gt;
+&lt;li&gt;Peng Shangpin 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/EE1012B&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;电路实验 IB&lt;/a&gt; 和 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/EE1012A&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;电路实验 IA&lt;/a&gt; 中添加了报告，在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/AUTO1001&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;自动化认知与实践&lt;/a&gt; 中增添了新笔记，以及在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/GEIP1011&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;马克思主义基本原理&lt;/a&gt; 中添加了材料。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;周二（7.30）&lt;/strong&gt;：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;IcyDesert 补充了 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/WRIT0001&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;写作与沟通&lt;/a&gt; 课程介绍。&lt;/li&gt;
+&lt;li&gt;Peng Shangpin 更新了 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/PE100X&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;体育&lt;/a&gt; 的 README。&lt;/li&gt;
+&lt;li&gt;GitHub Actions 更新了 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/.github&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;.github&lt;/a&gt; 的 README.md。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;周三（7.31）&lt;/strong&gt;：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;MaxwellJay256 编辑了 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/WRIT0001&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;写作与沟通&lt;/a&gt; 的 README，并新增了批判性思维主题介绍，更新了标签，删除了无用文件夹。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;周日（7.28）&lt;/strong&gt;：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Kowyo 修正了 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/hoa-moe&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;hoa-moe&lt;/a&gt; 项目中的拼写错误。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;周六（7.27）&lt;/strong&gt;：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;github-actions[bot] 提交了 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/hoa-moe&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;hoa-moe&lt;/a&gt; 的新每周报告。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;总体来看，本周的提交主要集中在对文档的编辑和课程内容的补充，以及对电路实验报告的添加。&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>AUTO 周报 2024-07-19 - 2024-07-26</title>
+      <link>http://localhost:9623/news/weekly/weekly-2024-07-19/weekly-2024-07-19/</link>
+      <pubDate>Fri, 26 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:9623/news/weekly/weekly-2024-07-19/weekly-2024-07-19/</guid>
+      <description>
+        
+        
+        &lt;h2&gt;✨AI 摘要&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;ai-摘要&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#ai-%e6%91%98%e8%a6%81&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h4&gt;每周提交报告总结（7 月 21 日至 7 月 26 日）&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;每周提交报告总结7-月-21-日至-7-月-26-日&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e6%af%8f%e5%91%a8%e6%8f%90%e4%ba%a4%e6%8a%a5%e5%91%8a%e6%80%bb%e7%bb%937-%e6%9c%88-21-%e6%97%a5%e8%87%b3-7-%e6%9c%88-26-%e6%97%a5&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;在过去的一周中，多个项目进行了积极的更新与改进。以下是主要的提交记录：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;周五（7.26）&lt;/strong&gt;：修正了游泳课的泳道长度描述，并更新了 README 文档。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;周四（7.25）&lt;/strong&gt;：合并了多个请求，更新了选课指南，并上线了新课程。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;周三（7.24）&lt;/strong&gt;：修正了关于游泳课的考试信息，并更新了相关脚本。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;周二（7.23）&lt;/strong&gt;：更新了日语 I 课程的标签和 README 文档。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;周一（7.22）&lt;/strong&gt;：更新了模式识别课程的教材和学习建议，并对 README 进行了更新。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;周日（7.21）&lt;/strong&gt;：新增网球课程说明，上线了运动控制系统课程，并更新了多门课程的 README 文档及相关信息。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;总体来看，这周的更新集中在课程上线、教材更新及文档修正方面，为师生提供了更好的学习资源和信息。&lt;/p&gt;
+&lt;h4&gt;周五（7.26）&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;周五726&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e5%91%a8%e4%ba%94726&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;（12:14）&lt;a href=&#34;https://github.com/HITSZ-OpenAuto/PE100X&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;体育&lt;/a&gt;：（longlin li）fix: 游泳课泳道长度描述&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;（9:21）&lt;a href=&#34;https://github.com/HITSZ-OpenAuto/.github&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;.github&lt;/a&gt;：（GitHub Actions）ci: update README.md&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;周四（7.25）&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;周四725&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e5%91%a8%e5%9b%9b725&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;（18:22）&lt;a href=&#34;https://github.com/HITSZ-OpenAuto/hoa-moe&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;hoa-moe&lt;/a&gt;：（吴俊达）Merge pull request #139 from HITSZ-OpenAuto/ow1&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;（18:10）&lt;a href=&#34;https://github.com/HITSZ-OpenAuto/hoa-moe&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;hoa-moe&lt;/a&gt;：（oliver-wu）更新选课指南&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;（17:57）&lt;a href=&#34;https://github.com/HITSZ-OpenAuto/AUTO3019&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;机器学习概论&lt;/a&gt;：（oliver-wu）上线新课程&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;（17:55）&lt;a href=&#34;https://github.com/HITSZ-OpenAuto/AUTO3019&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;机器学习概论&lt;/a&gt;：（吴俊达）Initial commit&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;周三（7.24）&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;周三724&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e5%91%a8%e4%b8%89724&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;（18:08）&lt;a href=&#34;https://github.com/HITSZ-OpenAuto/PE100X&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;体育&lt;/a&gt;：（Kowyo）£hei 仔🐷：修正关于游泳课考试的情况&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;（12:48）&lt;a href=&#34;https://github.com/HITSZ-OpenAuto/hoa-moe&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;hoa-moe&lt;/a&gt;：（Kowyo）fix: update update_about.py&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;（12:37）&lt;a href=&#34;https://github.com/HITSZ-OpenAuto/hoa-moe&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;hoa-moe&lt;/a&gt;：（Kowyo）fix: update token name in update_about.py&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;（9:22）&lt;a href=&#34;https://github.com/HITSZ-OpenAuto/.github&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;.github&lt;/a&gt;：（GitHub Actions）ci: update README.md&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;周二（7.23）&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;周二723&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e5%91%a8%e4%ba%8c723&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;（11:58）&lt;a href=&#34;https://github.com/HITSZ-OpenAuto/WOCD1008&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;日语 I&lt;/a&gt;：（longlin li）Update tag.txt&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;（11:56）&lt;a href=&#34;https://github.com/HITSZ-OpenAuto/WOCD1008&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;日语 I&lt;/a&gt;：（longlin li）Update tag.txt&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;（11:55）&lt;a href=&#34;https://github.com/HITSZ-OpenAuto/WOCD1008&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;日语 I&lt;/a&gt;：（longlin li）Update README.md&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;（11:35）&lt;a href=&#34;https://github.com/HITSZ-OpenAuto/WOCD1008&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;日语 I&lt;/a&gt;：（longlin li）Initial commit&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;周一（7.22）&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;周一722&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e5%91%a8%e4%b8%80722&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;（19:54）&lt;a href=&#34;https://github.com/HITSZ-OpenAuto/AUTO5024&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;模式识别&lt;/a&gt;：（吴俊达）更新教材与参考书以及简要学习建议&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;（18:27）&lt;a href=&#34;https://github.com/HITSZ-OpenAuto/AUTO5024&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;模式识别&lt;/a&gt;：（Hye）更新教材与参考书以及简要学习建议&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;（9:24）&lt;a href=&#34;https://github.com/HITSZ-OpenAuto/.github&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;.github&lt;/a&gt;：（GitHub Actions）ci: update README.md&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;周日（7.21）&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;周日721&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e5%91%a8%e6%97%a5721&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;（18:25）&lt;a href=&#34;https://github.com/HITSZ-OpenAuto/PE100X&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;体育&lt;/a&gt;：（longlin li）新增网球课程说明 (#6)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;（17:35）&lt;a href=&#34;https://github.com/HITSZ-OpenAuto/AUTO3006&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;机器视觉&lt;/a&gt;：（吴俊达）更新 README (#5)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;（17:18）&lt;a href=&#34;https://github.com/HITSZ-OpenAuto/EE1009&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;数字电子技术基础&lt;/a&gt;：（吴俊达）更新 2023 试题填空解析 (#7)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;（17:08）&lt;a href=&#34;https://github.com/HITSZ-OpenAuto/AUTO3011&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;运动控制系统&lt;/a&gt;：（oliver-wu）上线新课程&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;（17:06）&lt;a href=&#34;https://github.com/HITSZ-OpenAuto/hoa-moe&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;hoa-moe&lt;/a&gt;：（oliver-wu）更新选课指南中《数学规划》的链接&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;（16:15）&lt;a href=&#34;https://github.com/HITSZ-OpenAuto/AUTO3011&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;运动控制系统&lt;/a&gt;：（吴俊达）Initial commit&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;（16:11）&lt;a href=&#34;https://github.com/HITSZ-OpenAuto/MATH3010&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;数学规划与数值优化&lt;/a&gt;：（oliver-wu）更新课程名&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;（15:58）&lt;a href=&#34;https://github.com/HITSZ-OpenAuto/EE3005&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DSP 的原理与应用&lt;/a&gt;：（吴俊达）将其划进归档课程&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;（15:47）&lt;a href=&#34;https://github.com/HITSZ-OpenAuto/MATH3010&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;数学规划与数值优化&lt;/a&gt;：（oliver-wu）更新学分学时信息&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;（15:34）&lt;a href=&#34;https://github.com/HITSZ-OpenAuto/AUTO3002B&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;自动控制实践 B&lt;/a&gt;：（吴俊达）更新 README，更新实验报告版本，更新 2024 考试题 (#4)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;（15:21）&lt;a href=&#34;https://github.com/HITSZ-OpenAuto/AUTO5024&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;模式识别&lt;/a&gt;：（oliver-wu）上线新课程&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;（14:45）&lt;a href=&#34;https://github.com/HITSZ-OpenAuto/AUTO3024&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;嵌入式系统&lt;/a&gt;：（oliver-wu）更新 README，更新实验报告版本&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;（12:03）&lt;a href=&#34;https://github.com/HITSZ-OpenAuto/AUTO5024&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;模式识别&lt;/a&gt;：（吴俊达）Initial commit&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;（11:35）&lt;a href=&#34;https://github.com/HITSZ-OpenAuto/AUTO3007&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;过程控制系统&lt;/a&gt;：（吴俊达）更新一个实验报告版本 (#6)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;周六（7.20）&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;周六720&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e5%91%a8%e5%85%ad720&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;（17:18）&lt;a href=&#34;https://github.com/HITSZ-OpenAuto/hoa-moe&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;hoa-moe&lt;/a&gt;：（Kowyo）feat: update gpt model in news module to gpt 4o mini (#136)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;（17:15）&lt;a href=&#34;https://github.com/HITSZ-OpenAuto/MATH1015B&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;微积分 B&lt;/a&gt;：（IcyDesert）上传 2024 春期末试题和答案，并补充难度情况；更正 README.md 中笔误 (#5)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>AUTO 周报 2024-07-12 - 2024-07-19</title>
+      <link>http://localhost:9623/news/weekly/weekly-2024-07-12/weekly-2024-07-12/</link>
+      <pubDate>Fri, 19 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:9623/news/weekly/weekly-2024-07-12/weekly-2024-07-12/</guid>
+      <description>
+        
+        
+        &lt;h2&gt;✨AI 摘要&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;ai-摘要&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#ai-%e6%91%98%e8%a6%81&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;本周共有多个课程进行了更新，包括微积分 A、微积分 B、马克思主义基本原理、hoa-moe 等。更新内容主要包括添加新的笔记、更新选课指南、更新使用指南等。同时，还有一些课程进行了合并请求和修正细节等操作。周二的更新主要集中在信号分析与处理、自动控制实践 B、马克思主义基本原理等课程上。周一和周日的更新也比较频繁，更新内容涵盖了概率论与数理统计、casio FX-991CNX 的使用指南等。周六和周五也有部分实验课程更新了笔记或实验报告。整体来看，本周课程更新内容丰富，内容涵盖了多个课程领域，在不同层面都有所改进。&lt;/p&gt;
+&lt;h2&gt;新贡献者&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;新贡献者&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e6%96%b0%e8%b4%a1%e7%8c%ae%e8%80%85&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;a href=&#34;https://github.com/drq-48&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;drq&lt;/a&gt; 在 hoa-moe 中第一次投稿博客《卡西欧 FX-991CNX 计算器使用指南》，欢迎大家阅读！&lt;/p&gt;
+&lt;h4&gt;周四（7.18）&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;周四718&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e5%91%a8%e5%9b%9b718&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;（17:37）&lt;a href=&#34;https://github.com/HITSZ-OpenAuto/MATH1015A&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;微积分 A&lt;/a&gt;：（Peng Shangpin）add new note (#5)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;（17:35）&lt;a href=&#34;https://github.com/HITSZ-OpenAuto/MATH1015B&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;微积分 B&lt;/a&gt;：（Peng Shangpin）add psp&amp;rsquo;s note (#4)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;（17:29）&lt;a href=&#34;https://github.com/HITSZ-OpenAuto/GEIP1011&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;马克思主义基本原理&lt;/a&gt;：（Peng Shangpin）add psp note (#7)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;（16:27）&lt;a href=&#34;https://github.com/HITSZ-OpenAuto/hoa-moe&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;hoa-moe&lt;/a&gt;：（吴俊达）更新选课指南&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;周二（7.16）&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;周二716&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e5%91%a8%e4%ba%8c716&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;（23:00）&lt;a href=&#34;https://github.com/HITSZ-OpenAuto/AUTO3002B&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;自动控制实践 B&lt;/a&gt;：（AutoFriedRich）增加了 Abigzhe 的自控实践复习整理的笔记&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;（22:47）&lt;a href=&#34;https://github.com/HITSZ-OpenAuto/GEIP1011&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;马克思主义基本原理&lt;/a&gt;：（AutoFriedRich）2022 马克思原理个人整理笔记 by 零雨其濛&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;周一（7.15）&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;周一715&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e5%91%a8%e4%b8%80715&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;（14:36）&lt;a href=&#34;https://github.com/HITSZ-OpenAuto/hoa-moe&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;hoa-moe&lt;/a&gt;：（drq）更新 casio FX-991CNX 使用指南 (#132)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;（14:34）&lt;a href=&#34;https://github.com/HITSZ-OpenAuto/MATH1004&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;概率论与数理统计&lt;/a&gt;：（Peng Shangpin）更新笔记 (#4)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;周日（7.14）&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;周日714&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e5%91%a8%e6%97%a5714&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;（18:04）&lt;a href=&#34;https://github.com/HITSZ-OpenAuto/hoa-moe&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;hoa-moe&lt;/a&gt;：（drq）更新 casio FX-991CNX 的使用指南 (#131)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;（17:32）&lt;a href=&#34;https://github.com/HITSZ-OpenAuto/hoa-moe&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;hoa-moe&lt;/a&gt;：（drq）更新 casio FX-991CNX 使用指南的一些细节  (#130)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;（0:16）&lt;a href=&#34;https://github.com/HITSZ-OpenAuto/hoa-moe&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;hoa-moe&lt;/a&gt;：（drq）how-to-use-casioFX991CNX (#129)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;（0:05）&lt;a href=&#34;https://github.com/HITSZ-OpenAuto/EE1010&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;数字电子技术实验&lt;/a&gt;：（Maxwell Jay）Update README.md&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;（0:00）&lt;a href=&#34;https://github.com/HITSZ-OpenAuto/PHYS1002&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;大学物理实验&lt;/a&gt;：（吴俊达）更新学期、补充 README；删除因为大小写原因重复的文件夹 EXP24 (#26)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;周六（7.13）&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;周六713&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e5%91%a8%e5%85%ad713&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;（20:40）&lt;a href=&#34;https://github.com/HITSZ-OpenAuto/EE1010&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;数字电子技术实验&lt;/a&gt;：（Peng Shangpin）add psp&amp;rsquo;s report (#3)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;（20:39）&lt;a href=&#34;https://github.com/HITSZ-OpenAuto/EE1008&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;模拟电子技术实验&lt;/a&gt;：（Peng Shangpin）add psp&amp;rsquo;s report(#3)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;周五（7.12）&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;周五712&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e5%91%a8%e4%ba%94712&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;（19:33）&lt;a href=&#34;https://github.com/HITSZ-OpenAuto/MATH1004&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;概率论与数理统计&lt;/a&gt;：（psp_dada）add new note&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;（15:13）&lt;a href=&#34;https://github.com/HITSZ-OpenAuto/MATH1005&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;复变函数与积分变换&lt;/a&gt;：（psp_dada）add new note&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;（15:03）&lt;a href=&#34;https://github.com/HITSZ-OpenAuto/MATH1002&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;代数与几何&lt;/a&gt;：（psp_dada）add new note&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;（14:51）&lt;a href=&#34;https://github.com/HITSZ-OpenAuto/PHYS1001A&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;大学物理&lt;/a&gt;：（psp_dada）add new notes&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;（14:33）&lt;a href=&#34;https://github.com/HITSZ-OpenAuto/GEIP1018&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;毛泽东思想和中国特色社会主义理论体系概论&lt;/a&gt;：（psp_dada）add new note&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;（14:24）&lt;a href=&#34;https://github.com/HITSZ-OpenAuto/EMEC1002&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;理论力学Ⅱ&lt;/a&gt;：（psp_dada）add new note&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;（13:55）&lt;a href=&#34;https://github.com/HITSZ-OpenAuto/EE1009&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;数字电子技术基础&lt;/a&gt;：（psp_dada）add new note&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;（13:47）&lt;a href=&#34;https://github.com/HITSZ-OpenAuto/EE1007&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;模拟电子技术基础&lt;/a&gt;：（psp_dada）fix typo&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;（13:41）&lt;a href=&#34;https://github.com/HITSZ-OpenAuto/EE1007&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;模拟电子技术基础&lt;/a&gt;：（psp_dada）add new notes&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;（13:06）&lt;a href=&#34;https://github.com/HITSZ-OpenAuto/AUTO1001&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;自动化认知与实践&lt;/a&gt;：（Peng Shangpin）Update README.md&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>AUTO 周报 2024-07-05 - 2024-07-12</title>
+      <link>http://localhost:9623/news/weekly/weekly-2024-07-05/weekly-2024-07-05/</link>
+      <pubDate>Fri, 12 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:9623/news/weekly/weekly-2024-07-05/weekly-2024-07-05/</guid>
+      <description>
+        
+        
+        &lt;h2&gt;✨AI 摘要&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;ai-摘要&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#ai-%e6%91%98%e8%a6%81&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;本周的提交报告显示，团队成员在多门课程项目上取得了进展。主要包括整理上传考试题和资料，更新 README 文件，以及添加实验报告。其中涉及的课程有理论力学、模拟电子技术基础、毛泽东思想和中国特色社会主义理论体系概论等。还有一个项目更新了近现代史纲要串讲文件，加入了新的背诵方法。总体来看，团队在不同课程项目上都有积极的工作进展。&lt;/p&gt;
+&lt;h4&gt;周五（7.12）&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;周五712&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e5%91%a8%e4%ba%94712&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;（11:55）&lt;a href=&#34;https://github.com/HITSZ-OpenAuto/EMEC1002&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;理论力学Ⅱ&lt;/a&gt;：（MaxwellJay256）整理及上传考试题、编辑 README&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;（11:14）&lt;a href=&#34;https://github.com/HITSZ-OpenAuto/EE1007&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;模拟电子技术基础&lt;/a&gt;：（MaxwellJay256）整理及上传资料、更新 README&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;（10:54）&lt;a href=&#34;https://github.com/HITSZ-OpenAuto/GEIP1018&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;毛泽东思想和中国特色社会主义理论体系概论&lt;/a&gt;：（Maxwell Jay）Update tag.txt&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;（10:49）&lt;a href=&#34;https://github.com/HITSZ-OpenAuto/PHYS1002&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;大学物理实验&lt;/a&gt;：（Peng Shangpin）添加 22 级 psp 实验报告 (#25)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;周日（7.7）&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;周日77&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e5%91%a8%e6%97%a577&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;（12:15）&lt;a href=&#34;https://github.com/HITSZ-OpenAuto/GEIP1016&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;中国近现代史纲要&lt;/a&gt;：（IcyDesert）更新 2023 级近现代史纲要串讲文件；加入意义类背诵方法论 (#4)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;周六（7.6）&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;周六76&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e5%91%a8%e5%85%ad76&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;（12:13）&lt;a href=&#34;https://github.com/HITSZ-OpenAuto/GEIP1018&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;毛泽东思想和中国特色社会主义理论体系概论&lt;/a&gt;：（MaxwellJay256）编写 README；上传各种资料&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;（11:27）&lt;a href=&#34;https://github.com/HITSZ-OpenAuto/EE1009&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;数字电子技术基础&lt;/a&gt;：（MaxwellJay256）整理以及上传各种资料&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>AUTO 周报 2024-06-28 - 2024-07-05：考完了终于考完了</title>
+      <link>http://localhost:9623/news/weekly/weekly-2024-06-28/weekly-2024-06-28/</link>
+      <pubDate>Fri, 05 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:9623/news/weekly/weekly-2024-06-28/weekly-2024-06-28/</guid>
+      <description>
+        
+        
+        &lt;h2&gt;✨人工摘要&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;人工摘要&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e4%ba%ba%e5%b7%a5%e6%91%98%e8%a6%81&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;本周是 21 级自动化的考试周最后一周。结束了紧张的考试之后，OpenAuto 又可以进入紧锣密鼓的更新之中了，欢迎未投稿/贡献过的同学联系我们 OpenAuto 的维护者，或者直接参与我们的贡献❤！&lt;/p&gt;
+&lt;h4&gt;周四（7.4）&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;周四74&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e5%91%a8%e5%9b%9b74&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;（20:50）&lt;a href=&#34;https://github.com/HITSZ-OpenAuto/AUTO3005&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;机器人学导论&lt;/a&gt;：（吴俊达）更新作业、实验报告、课设版本各一 (#7)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;周三（7.3）&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;周三73&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e5%91%a8%e4%b8%8973&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;（16:49）&lt;a href=&#34;https://github.com/HITSZ-OpenAuto/MATH1004&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;概率论与数理统计&lt;/a&gt;：（AutoFriedRich）更新了一些学习建议 (#2)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;周一（7.1）&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;周一71&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e5%91%a8%e4%b8%8071&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;（22:16）&lt;a href=&#34;https://github.com/HITSZ-OpenAuto/EE1009&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;数字电子技术基础&lt;/a&gt;：（oliver-wu）更新试题答案&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;（19:36）&lt;a href=&#34;https://github.com/HITSZ-OpenAuto/AUTO3001B&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;自动控制理论 B&lt;/a&gt;：（oliver-wu）新增一个实验报告版本、一份复习笔记&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;周日（6.30）&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;周日630&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e5%91%a8%e6%97%a5630&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;（13:57）&lt;a href=&#34;https://github.com/HITSZ-OpenAuto/AUTO3001A&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;自动控制理论 A&lt;/a&gt;：（吴俊达）更新 2023 试题考点回忆版&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;（13:54）&lt;a href=&#34;https://github.com/HITSZ-OpenAuto/EE1009&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;数字电子技术基础&lt;/a&gt;：（oliver-wu）更新 2023 试题及答案&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;周六（6.29）&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;周六629&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e5%91%a8%e5%85%ad629&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;（5:22）&lt;a href=&#34;https://github.com/HITSZ-OpenAuto/AUTO3004&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;系统建模与仿真&lt;/a&gt;：（oliver-wu）新增实验报告版本&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;（4:45）&lt;a href=&#34;https://github.com/HITSZ-OpenAuto/EMEC1002&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;理论力学Ⅱ&lt;/a&gt;：（oliver-wu）更新 2023 试题答案&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;（2:57）&lt;a href=&#34;https://github.com/HITSZ-OpenAuto/AUTO5001&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;线性系统理论&lt;/a&gt;：（oliver-wu）添加作业答案&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>AUTO 周报 2024-06-21 - 2024-06-28</title>
+      <link>http://localhost:9623/news/weekly/weekly-2024-06-21/weekly-2024-06-21/</link>
+      <pubDate>Fri, 28 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:9623/news/weekly/weekly-2024-06-21/weekly-2024-06-21/</guid>
+      <description>
+        
+        
+        &lt;h2&gt;✨AI 摘要&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;ai-摘要&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#ai-%e6%91%98%e8%a6%81&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;本周共提交了两份代码更新。周二，吴俊达为自动控制实践 B 项目增加了一份复习笔记。周六，Kowyo 更新了自动控制理论 B 项目的课程分数构成情况。&lt;/p&gt;
+&lt;h4&gt;周二（6.25)&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;周二625&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e5%91%a8%e4%ba%8c625&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;（18:46）&lt;a href=&#34;https://github.com/HITSZ-OpenAuto/AUTO3002B&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;自动控制实践 B&lt;/a&gt;：（吴俊达）增加复习笔记一份&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;周六（6.22)&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;周六622&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e5%91%a8%e5%85%ad622&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;（20:21）&lt;a href=&#34;https://github.com/HITSZ-OpenAuto/AUTO3001B&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;自动控制理论 B&lt;/a&gt;：（Kowyo）更新课程分数构成情况&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>AUTO 周报 2024-06-14 - 2024-06-21</title>
+      <link>http://localhost:9623/news/weekly/weekly-2024-06-14/weekly-2024-06-14/</link>
+      <pubDate>Fri, 21 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:9623/news/weekly/weekly-2024-06-14/weekly-2024-06-14/</guid>
+      <description>
+        
+        
+        &lt;h4&gt;周四（6.20)&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;周四620&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e5%91%a8%e5%9b%9b620&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;（1:17）&lt;a href=&#34;https://github.com/HITSZ-OpenAuto/AUTO3007&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;过程控制系统&lt;/a&gt;：（Kowyo）添加课程教材信息&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;周三（6.19)&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;周三619&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e5%91%a8%e4%b8%89619&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;（23:10）&lt;a href=&#34;https://github.com/HITSZ-OpenAuto/EE1010&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;数字电子技术实验&lt;/a&gt;：（345ljh）添加 2023 学年实验报告 (#2)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;周一（6.17)&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;周一617&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e5%91%a8%e4%b8%80617&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;（20:29）&lt;a href=&#34;https://github.com/HITSZ-OpenAuto/AUTO3002B&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;自动控制实践 B&lt;/a&gt;：（Kowyo）更新分数组成&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>AUTO 周报 2024-06-07 - 2024-06-14</title>
+      <link>http://localhost:9623/news/weekly/weekly-2024-06-07/weekly-2024-06-07/</link>
+      <pubDate>Fri, 14 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:9623/news/weekly/weekly-2024-06-07/weekly-2024-06-07/</guid>
+      <description>
+        
+        
+        &lt;h2&gt;✨AI 摘要&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;ai-摘要&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#ai-%e6%91%98%e8%a6%81&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;本周的提交报告显示在开源汽车组织中的各个项目都有更新。主要包括 README.md 文件的更新、大学物理实验示例项目的初始提交、自动化认知与实践项目的学期更新、机器视觉课程设计解决方案的增加，以及模拟电子技术实验项目文件的整理和机器人学导论项目的作业和实验代码部分的添加。整体看来，本周有较多项目的更新和进展。&lt;/p&gt;
+&lt;h4&gt;周三（6.12)&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;周三612&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e5%91%a8%e4%b8%89612&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;（2:25）&lt;a href=&#34;https://github.com/HITSZ-OpenAuto/AUTO1001&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;自动化认知与实践&lt;/a&gt;：（吴俊达）Update semester&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;周二（6.11)&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;周二611&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e5%91%a8%e4%ba%8c611&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;（21:44）&lt;a href=&#34;https://github.com/HITSZ-OpenAuto/AUTO3006&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;机器视觉&lt;/a&gt;：（吴俊达）增加一个课程设计解决方案 (#4)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;（15:30）&lt;a href=&#34;https://github.com/HITSZ-OpenAuto/AUTO3006&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;机器视觉&lt;/a&gt;：（345ljh）上传课设选题 2 (#3)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;周一（6.10)&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;周一610&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e5%91%a8%e4%b8%80610&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;（20:13）&lt;a href=&#34;https://github.com/HITSZ-OpenAuto/EE1008&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;模拟电子技术实验&lt;/a&gt;：（YinMo19）将原有文件归档到文件夹下，新增 LJH 的实验报告 (#2)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;周日（6.9)&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;周日69&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e5%91%a8%e6%97%a569&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;（20:11）&lt;a href=&#34;https://github.com/HITSZ-OpenAuto/AUTO3005&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;机器人学导论&lt;/a&gt;：（吴俊达）新增作业 3-6 代码部分和实验 1-4&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>AUTO 周报 2024-05-24 - 2024-05-31</title>
+      <link>http://localhost:9623/news/weekly/weekly-2024-05-24/weekly-2024-05-24/</link>
+      <pubDate>Fri, 31 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:9623/news/weekly/weekly-2024-05-24/weekly-2024-05-24/</guid>
+      <description>
+        
+        
+        &lt;h2&gt;✨AI 摘要&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;ai-摘要&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#ai-%e6%91%98%e8%a6%81&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;本周的提交报告如下：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;周四，Sieroy 在创新训练课 B 项目中新增了一个项目分享。&lt;/li&gt;
+&lt;li&gt;周三，Kowyo 在机器视觉项目中删除了一些代码。&lt;/li&gt;
+&lt;li&gt;周日，fffish12333 上传了《机器人学导论》（2024 年春）的笔记。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;新贡献者&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;新贡献者&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e6%96%b0%e8%b4%a1%e7%8c%ae%e8%80%85&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;a href=&#34;https://github.com/fffish12333&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;fffish12333&lt;/a&gt; 在 机器人学导论 中第一次 commit 和创建 PR&lt;/p&gt;
+&lt;h2&gt;最近更新&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;最近更新&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e6%9c%80%e8%bf%91%e6%9b%b4%e6%96%b0&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h4&gt;周四（5.30)&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;周四530&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e5%91%a8%e5%9b%9b530&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;（11:49）&lt;a href=&#34;https://github.com/HITSZ-OpenAuto/AUTO2003B&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;创新训练课 B&lt;/a&gt;：（Sieroy）新增一个项目分享 (#5)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;周三（5.29)&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;周三529&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e5%91%a8%e4%b8%89529&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;（14:07）&lt;a href=&#34;https://github.com/HITSZ-OpenAuto/AUTO3006&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;机器视觉&lt;/a&gt;：（Kowyo）Remove code&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;周日（5.26)&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;周日526&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e5%91%a8%e6%97%a5526&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;（0:31）&lt;a href=&#34;https://github.com/HITSZ-OpenAuto/AUTO3005&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;机器人学导论&lt;/a&gt;：（fffish12333）上传一份《机器人学导论》（2024 年春）笔记&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>AUTO 周报 2024-05-17 - 2024-05-24</title>
+      <link>http://localhost:9623/news/weekly/weekly-2024-05-17/weekly-2024-05-17/</link>
+      <pubDate>Fri, 24 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:9623/news/weekly/weekly-2024-05-17/weekly-2024-05-17/</guid>
+      <description>
+        
+        
+        &lt;h2&gt;✨AI 摘要&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;ai-摘要&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#ai-%e6%91%98%e8%a6%81&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;本周的提交报告包括了多个课程内容的更新和修正，其中包括电路与电子学、机器人学导论、大学化学等多门课程。同时，还有一些仓库进行了自动化构建的调整以及权限问题的修复。整体来看，本周的提交内容涵盖了课程材料的更新和优化，以及仓库操作的维护和改进。&lt;/p&gt;
+&lt;h2&gt;新贡献者&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;新贡献者&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e6%96%b0%e8%b4%a1%e7%8c%ae%e8%80%85&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;a href=&#34;https://github.com/345ljh&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;345ljh&lt;/a&gt; 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/AUTO3005&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;机器人学导论&lt;/a&gt; 中第一次 commit 和创建 PR。&lt;/p&gt;
+&lt;h2&gt;最近更新&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;最近更新&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e6%9c%80%e8%bf%91%e6%9b%b4%e6%96%b0&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;&lt;a href=&#34;https://github.com/HITSZ-OpenAuto/hoa-moe&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;hoa.moe&lt;/a&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;hoamoehttpsgithubcomhitsz-openautohoa-moe&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#hoamoehttpsgithubcomhitsz-openautohoa-moe&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;文档增加版权信息（&lt;a href=&#34;https://github.com/HITSZ-OpenAuto/hoa-moe/issues/20&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;#20&lt;/a&gt;)。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;新闻板块增加更新速递，显示最近一次课程文档更新情况。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;课程文档&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;课程文档&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e8%af%be%e7%a8%8b%e6%96%87%e6%a1%a3&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;周四（5.23）&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;（21:17）&lt;a href=&#34;https://github.com/HITSZ-OpenAuto/EE1013&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;电路与电子学&lt;/a&gt;：（IcyDesert）补充更多模电、数电网课推荐，并附上食用方法&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;（16:27）&lt;a href=&#34;https://github.com/HITSZ-OpenAuto/EE1013&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;电路与电子学&lt;/a&gt;：（IcyDesert）修正关于授课教师的描述；补充模电网课&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;周三（5.22）&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;（13:09）&lt;a href=&#34;https://github.com/HITSZ-OpenAuto/AUTO3005&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;机器人学导论&lt;/a&gt;：（345ljh）上传考试 A4 (#4)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;（0:00）&lt;a href=&#34;https://github.com/HITSZ-OpenAuto/CHEM1012&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;大学化学 III&lt;/a&gt;：（Maxwell Jay）完善课程文档，删除关于教师的描述&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;周一（5.20）&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;（22:02）&lt;a href=&#34;https://github.com/HITSZ-OpenAuto/MOOC&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MOOC&lt;/a&gt;：（Kowyo）新增《知识产权法律及实务》课的找答案的方法 (#5)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;周日（5.19）&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;（14:28）&lt;a href=&#34;https://github.com/HITSZ-OpenAuto/PHYS1002&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;大学物理实验&lt;/a&gt;：（Maxwell Jay）新增巨磁阻效应与应用的实验绘图程序等内容；更新 README：添加警告 (#24)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;（14:16）&lt;a href=&#34;https://github.com/HITSZ-OpenAuto/AUTO2003B&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;创新训练课 B&lt;/a&gt;：（Maxwell Jay）更新 README：novemberinnorth 分享了自己的创 B 项目&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>问卷调查</title>
+      <link>http://localhost:9623/news/survey/</link>
+      <pubDate>Thu, 23 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:9623/news/survey/</guid>
+      <description>
+        
+        
+        &lt;p&gt;OpenAuto 的第一次问卷调查来啦，希望屏幕前的你可以抽出几分钟时间填写，让我们更了解我们的社区和用户。&lt;/p&gt;
+&lt;p&gt;参与方式（选择其中一种即可）：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;点击 &lt;a href=&#34;https://forms.office.com/r/CHTPkzFjY8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;问卷链接&lt;/a&gt; 填写问卷&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;扫描下方二维码填写问卷：&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;img src=&#34;http://localhost:9623/images/survey.webp&#34; alt=&#34;问卷二维码&#34; style=&#34;width: 400px align: center;&#34;/&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>AUTO 周报 2024-05-09 - 2024-05-16</title>
+      <link>http://localhost:9623/news/weekly/weekly-2024-05-09/weekly-2024-05-09/</link>
+      <pubDate>Thu, 16 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:9623/news/weekly/weekly-2024-05-09/weekly-2024-05-09/</guid>
+      <description>
+        
+        
+        &lt;h2&gt;✨AI 摘要&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;ai-摘要&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#ai-%e6%91%98%e8%a6%81&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;本周提交报告充满了忙碌的痕迹：Kowyo 同学修复了一些格式问题，不过却在调整 yaml 时变得更&amp;quot;特别&amp;quot;，ci 出现的问题也频频困扰着他；还有 Maxwell Jay 同学将课程移至已存档状态，笑中带泪；以及 longlin li 同学一直活跃在各 README.md 的更新中，努力为项目添砖加瓦。周三，oldkingOK 同学大胆地迎接中国红色文化精神；周日，IcyDesert 同学深刻探讨了 MOOC 失败的影响，longlin li 同学则频频更新 README，不忘完善项目。整体而言，提交报告中充满了努力、欢乐和一丝丝困惑，展现了项目组的活力和奋斗精神，敬请期待下一周的更多惊喜！&lt;/p&gt;
+&lt;h2&gt;新贡献者&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;新贡献者&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e6%96%b0%e8%b4%a1%e7%8c%ae%e8%80%85&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/oldkingOK&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;oldkingOK&lt;/a&gt; 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/MOOC&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MOOC&lt;/a&gt; 中提交了第一次 PR，我们非常欢迎本部/威海的同学参与到我们的项目当中❤️&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/YinMo19&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;YinMo&lt;/a&gt; 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/MATH1015A&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MATH1015A&lt;/a&gt; 中起了第一次 commit。&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/AutoFriedRich&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AutoFriedRich&lt;/a&gt; 在 &lt;a href=&#34;https://github.com/HITSZ-OpenAuto/AUTO2006&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AUTO2006&lt;/a&gt; 中提交了第一次 PR。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;新核心维护者&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;新核心维护者&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e6%96%b0%e6%a0%b8%e5%bf%83%e7%bb%b4%e6%8a%a4%e8%80%85&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/YinMo19&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;YinMo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/AutoFriedRich&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AutoFriedRich&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/IcyDesert&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IcyDesert&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;最近更新&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;最近更新&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e6%9c%80%e8%bf%91%e6%9b%b4%e6%96%b0&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;&lt;a href=&#34;https://github.com/HITSZ-OpenAuto/hoa-moe&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;hoa.moe&lt;/a&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;hoamoehttpsgithubcomhitsz-openautohoa-moe&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#hoamoehttpsgithubcomhitsz-openautohoa-moe&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;本周我们在网页上新设了新闻版块，在此汇总近日来 OpenAuto 上的更新。我们打算将其以周报的形式公布，大家可以进行每周追番了。周报目前采取 GitHub API 汇总每周 Commit，ChatGPT 生成总结，核心维护者手动修改的模式。所以大家一定要用中文写好 commit 呀。&lt;/li&gt;
+&lt;li&gt;网页最近上新了两个新课程分类：文理通识与 MOOC 及 跨专业选修。&lt;/li&gt;
+&lt;li&gt;针对很多想要贡献 OpenAuto 但不太了解 Git 的同学，我们重新修订了一份 &lt;a href=&#34;http://hoa.moe/blog/writing-rules/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;《参与指南》&lt;/a&gt;，并且加入我们所认同的社区公约，我们期待您的参与！&lt;/li&gt;
+&lt;li&gt;更新了 &lt;a href=&#34;https://hoa.moe/about/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;关于&lt;/a&gt; 页面，你有发现与之前相比不一样的地方吗？&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;&lt;a href=&#34;https://github.com/HITSZ-OpenAuto/AUTO2006&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;控制理论中的代数基础&lt;/a&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;控制理论中的代数基础httpsgithubcomhitsz-openautoauto2006&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e6%8e%a7%e5%88%b6%e7%90%86%e8%ae%ba%e4%b8%ad%e7%9a%84%e4%bb%a3%e6%95%b0%e5%9f%ba%e7%a1%80httpsgithubcomhitsz-openautoauto2006&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/AutoFriedRich&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AutoFriedRich&lt;/a&gt; 更新了课程描述，分享学习经验&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;&lt;a href=&#34;https://github.com/HITSZ-OpenAuto/MOOC&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MOOC&lt;/a&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;moochttpsgithubcomhitsz-openautomooc&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#moochttpsgithubcomhitsz-openautomooc&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/oldkingOK&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;oldkingOK&lt;/a&gt; 为仓库新增 中国红色文化精神 相关资料&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/IcyDesert&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IcyDesert&lt;/a&gt; 为 MOOC 页面补充新文档说明&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;&lt;a href=&#34;https://github.com/HITSZ-OpenAuto/MATH1015A&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;微积分 A&lt;/a&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;微积分-ahttpsgithubcomhitsz-openautomath1015a&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e5%be%ae%e7%a7%af%e5%88%86-ahttpsgithubcomhitsz-openautomath1015a&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/YinMo19&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Yinmo&lt;/a&gt; 同学为仓库新增 &lt;strong&gt;先修&lt;/strong&gt; 相关课程描述&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;&lt;a href=&#34;https://github.com/HITSZ-OpenAuto/AUTO3005&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;机器人学导论&lt;/a&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;机器人学导论httpsgithubcomhitsz-openautoauto3005&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e6%9c%ba%e5%99%a8%e4%ba%ba%e5%ad%a6%e5%af%bc%e8%ae%bahttpsgithubcomhitsz-openautoauto3005&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/oliverwu515&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OliverWu&lt;/a&gt; 补充课程描述&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;&lt;a href=&#34;https://github.com/HITSZ-OpenAuto/AUTO3006&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;机器视觉&lt;/a&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;机器视觉httpsgithubcomhitsz-openautoauto3006&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e6%9c%ba%e5%99%a8%e8%a7%86%e8%a7%89httpsgithubcomhitsz-openautoauto3006&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/oliverwu515&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OliverWu&lt;/a&gt; 上传了 2024 年考试题回忆版&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/kowyo&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kowyo&lt;/a&gt; 上传了复习笔记&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;以下课程由 &lt;a href=&#34;https://github.com/MaxwellJay256&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MaxWell Jay&lt;/a&gt; 设置为归档：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/HITSZ-OpenAuto/EE1012A&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;电路实验 IA&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/HITSZ-OpenAuto/EE1012B&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;电路实验 IB&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/HITSZ-OpenAuto/EE1011A&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;电路 IA&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/HITSZ-OpenAuto/EE1011B&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;电路 IB&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>
