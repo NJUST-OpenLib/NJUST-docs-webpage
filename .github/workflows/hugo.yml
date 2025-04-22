@@ -1,0 +1,99 @@
+# 用于构建并部署 Hugo 网站到 GitHub Pages 的工作流
+name: Deploy Hugo site to Pages
+
+# 当推送到 main 分支，或手动触发 workflow 时运行
+on:
+  push:
+    branches: ["main"]
+  workflow_dispatch:
+
+# 设置 GITHUB_TOKEN 的权限以允许部署到 GitHub Pages
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# 限制同一时间仅运行一个部署任务，保留最近一次队列中的执行
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+# 默认使用 bash 运行命令
+defaults:
+  run:
+    shell: bash
+
+jobs:
+  # 构建网站
+  build:
+    runs-on: ubuntu-latest
+    env:
+      HUGO_VERSION: 0.141.0
+    steps:
+      # 安装 Hugo（使用官方 action）
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: ${{ env.HUGO_VERSION }}
+          extended: true
+
+      # 安装 Dart Sass（使用预编译包）
+      - name: Install Dart Sass
+        run: |
+          curl -s https://api.github.com/repos/sass/dart-sass/releases/latest \
+          | grep "browser_download_url.*linux-x64.tar.gz" \
+          | cut -d '"' -f 4 \
+          | wget -qi - -O dart-sass.tar.gz
+          mkdir -p dart-sass && tar -xzf dart-sass.tar.gz -C dart-sass
+          sudo mv dart-sass/dart-sass/* /usr/local/bin
+
+      # 使用缓存加快 Hugo 构建资源
+      - name: Cache Hugo resources
+        uses: actions/cache@v4
+        with:
+          path: ${{ runner.temp }}/hugo_cache
+          key: ${{ runner.os }}-hugo-${{ hashFiles('**/*.scss', '**/*.md', 'config.*') }}
+          restore-keys: |
+            ${{ runner.os }}-hugo-
+
+      # 拉取代码，包括子模块
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          submodules: recursive
+
+      # 配置 GitHub Pages 基础参数（如 baseURL）
+      - name: Setup Pages
+        id: pages
+        uses: actions/configure-pages@v5
+
+      # 如果存在 Node.js 依赖，则安装（可选）
+      - name: Install Node.js dependencies
+        run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
+
+      # 使用 Hugo 构建网站
+      - name: Build with Hugo
+        env:
+          HUGO_CACHEDIR: ${{ runner.temp }}/hugo_cache
+          HUGO_ENVIRONMENT: production
+        run: |
+          set -e
+          hugo --minify --baseURL "${{ steps.pages.outputs.base_url }}/"
+
+      # 上传构建产物用于部署
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./public
+
+  # 部署到 GitHub Pages
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
